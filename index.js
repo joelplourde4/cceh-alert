@@ -1,5 +1,6 @@
 const scrapeData = require('./scripts/scrape');
 const runAnalysis = require('./scripts/analyze');
+const { validateConfiguration } = require('./lib/alerts');
 
 const INTERVAL = 15 * 60 * 1000; // 15 minutes
 
@@ -13,6 +14,8 @@ async function runScripts() {
 }
 
 console.log("Running scripts. Press Ctrl+C to stop.");
+
+validateConfiguration();
 
 // Run immediately on start
 runScripts();
