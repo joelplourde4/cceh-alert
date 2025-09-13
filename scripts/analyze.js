@@ -1,5 +1,6 @@
 const fs = require("fs");
 const scrapeData = require("./scrape");
+const { sendDiscordAlert } = require("../lib/alerts");
 
 /**
  * Runs analysis on the scraped data to identify changes.
@@ -44,9 +45,10 @@ async function runAnalysis() {
                         const newPrice = parseFloat(item[key]);
 
                         if (!isNaN(oldPrice) && !isNaN(newPrice) && newPrice > oldPrice) {
-                            console.log(`  - ${key}: ${backupItem[key]} -> \x1b[32m${item[key]}\x1b[0m (increased)`);
+                            sendDiscordAlert(`Buying Price increased for ${item.name} (Buying Price): ${oldPrice} -> ${newPrice}`);
+                            console.log(`  - ${item.name}: (Buying Price) ${backupItem[key]} -> \x1b[32m${item[key]}\x1b[0m (increased)`);
                         } else {
-                            console.log(`  - ${key}: ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (decreased)`);
+                            console.log(`  - ${item.name}: (Buying Price) ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (decreased)`);
                         }
                     }
 
@@ -55,9 +57,10 @@ async function runAnalysis() {
                         const oldPrice = parseFloat(backupItem[key]);
                         const newPrice = parseFloat(item[key]);
                         if (!isNaN(oldPrice) && !isNaN(newPrice) && newPrice < oldPrice) {
-                            console.log(`  - ${key}: ${backupItem[key]} -> \x1b[32m${item[key]}\x1b[0m (decreased)`);
+                            sendDiscordAlert(`Selling Price decreased for ${item.name} (Selling Price): ${oldPrice} -> ${newPrice}`);
+                            console.log(`  - ${item.name}: (Selling Price) ${backupItem[key]} -> \x1b[32m${item[key]}\x1b[0m (decreased)`);
                         } else {
-                            console.log(`  - ${key}: ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (increased)`);
+                            console.log(`  - ${item.name}: (Selling Price) ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (increased)`);
                         }
                     }
 
