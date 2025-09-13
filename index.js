@@ -2,6 +2,7 @@ const scrapeData = require('./scripts/scrape');
 const runAnalysis = require('./scripts/analyze');
 const { validateConfiguration } = require('./lib/alerts');
 const express = require('express');
+const { info } = require('./lib/logger');
 
 const INTERVAL = 15 * 60 * 1000; // 15 minutes
 
@@ -9,19 +10,22 @@ const INTERVAL = 15 * 60 * 1000; // 15 minutes
  * Runs the scrape and analyze scripts in sequence.
  */
 async function runScripts() {
+    console.log("\n--- Price Check Cycle ---");
     await scrapeData();
 
     await runAnalysis();
+    console.log("-------------------------");
 }
 
-console.log("Running scripts. Press Ctrl+C to stop.");
+info(`Running scripts every ${INTERVAL / 1000 / 60} minutes. Press Ctrl+C to stop.`);
 
 validateConfiguration();
 
+info("Starting initial data fetch...");
 // Scrape data immediately on start so we have something to compare to.
-scrapeData().then(() => {
+scrapeData().then(async () => {
     // Then run the analysis
-    runScripts();
+    await runScripts();
 });
 
 // Then set an interval to run the scripts periodically
@@ -29,15 +33,17 @@ setInterval(runScripts, INTERVAL);
 
 const app = express();
 
-// Simple route
+// Initialize a simple route
 app.get("/", (req, res) => {
-  res.send("Hello from Render!");
+  res.send("The application is running. Check the logs for details.");
 });
 
-// Render provides the port as an environment variable
+// Start the server
 const PORT = process.env.PORT || 8080;
-
-// Bind to 0.0.0.0
 app.listen(PORT, "0.0.0.0", () => {
-  console.log(`Server running on port ${PORT}`);
+    info(`Server running on port ${PORT}`);
+    if (process.env.SELF_URL) {
+        import("./lib/heartbeat.js");
+        info("Heartbeat is active.");
+    }
 });
