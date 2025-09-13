@@ -4,6 +4,7 @@
   "description": "Alerting system for the Comptoir Commercial Enchères et en Hausse (cceh.trade)",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "scrape": "node ./scripts/scrape.js",
     "analyze": "node ./scripts/analyze.js"
   },
