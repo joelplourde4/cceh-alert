@@ -42,4 +42,8 @@ app.get("/", (req, res) => {
 const PORT = process.env.PORT || 8080;
 app.listen(PORT, "0.0.0.0", () => {
     info(`Server running on port ${PORT}`);
+    if (process.env.SELF_URL) {
+        import("./lib/heartbeat.js");
+        info("Heartbeat is active.");
+    }
 });
