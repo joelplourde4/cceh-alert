@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-13T11:24:27.851Z",
+  "timestamp": "2025-09-13T12:35:23.401Z",
   "count": 127,
   "data": [
     {
@@ -11,7 +11,7 @@
     },
     {
       "name": "Fiche de population activité",
-      "buyingPrice": "105",
+      "buyingPrice": "100",
       "buyingQuantity": "24",
       "sellingPrice": "105",
       "sellingQuantity": "25 (32)"
