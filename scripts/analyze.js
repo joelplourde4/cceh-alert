@@ -14,12 +14,10 @@ async function runAnalysis() {
     }
 
     // Load the backup file first
-    const backupRaw = fs.readFileSync("./data/backup.json", "utf8");
-    const backupData = JSON.parse(backupRaw);
+    const backupData = JSON.parse(fs.readFileSync("./data/backup.json", "utf8"));
 
     // Then load the current source file
-    const sourceRaw = fs.readFileSync("./data/source.json", "utf8");
-    const sourceData = JSON.parse(sourceRaw);
+    const sourceData = JSON.parse(fs.readFileSync("./data/source.json", "utf8"));
 
     // Create a map of backup items for easy lookup
     const backupMap = new Map();

@@ -17,7 +17,11 @@ console.log("Running scripts. Press Ctrl+C to stop.");
 
 validateConfiguration();
 
-// Run immediately on start
-runScripts();
+// Scrape data immediately on start so we have something to compare to.
+scrapeData().then(() => {
+    // Then run the analysis
+    runScripts();
+});
 
+// Then set an interval to run the scripts periodically
 setInterval(runScripts, INTERVAL);
