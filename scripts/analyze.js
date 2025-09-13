@@ -1,6 +1,7 @@
 const fs = require("fs");
 const scrapeData = require("./scrape");
 const { sendDiscordAlert } = require("../lib/alerts");
+const { info, warn } = require("../lib/logger");
 
 /**
  * Runs analysis on the scraped data to identify changes.
@@ -9,7 +10,7 @@ const { sendDiscordAlert } = require("../lib/alerts");
  */
 async function runAnalysis() {
     if (fs.existsSync("./data/backup.json") === false) {
-        console.warn("Warning: backup.json file not found. Running the script twice.");
+        warn("backup.json file not found. Creating one by running the scrape script twice.");
         await scrapeData();
     }
 
@@ -31,9 +32,9 @@ async function runAnalysis() {
     sourceData.data.forEach(item => {
         const backupItem = backupMap.get(item.name);
         if (!backupItem) {
-            console.log(`New item found: ${item.name}`);
+            info(`New item found: ${item.name}`);
         } else if (JSON.stringify(item) !== JSON.stringify(backupItem)) {
-            console.log(`Item changed: ${item.name}`);
+            info(`Item changed: ${item.name}`);
             // Compare fields and show differences
             Object.keys(item).forEach(key => {
                 if (item[key] !== backupItem[key]) {
@@ -44,9 +45,9 @@ async function runAnalysis() {
 
                         if (!isNaN(oldPrice) && !isNaN(newPrice) && newPrice > oldPrice) {
                             sendDiscordAlert(`Buying Price increased for ${item.name} (Buying Price): ${oldPrice} -> ${newPrice}`);
-                            console.log(`  - ${item.name}: (Buying Price) ${backupItem[key]} -> \x1b[32m${item[key]}\x1b[0m (increased)`);
+                            info(`${item.name}: (Buying Price) ${backupItem[key]} -> \x1b[32m${item[key]}\x1b[0m (increased)`);
                         } else {
-                            console.log(`  - ${item.name}: (Buying Price) ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (decreased)`);
+                            info(`${item.name}: (Buying Price) ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (decreased)`);
                         }
                     }
 
@@ -56,9 +57,9 @@ async function runAnalysis() {
                         const newPrice = parseFloat(item[key]);
                         if (!isNaN(oldPrice) && !isNaN(newPrice) && newPrice < oldPrice) {
                             sendDiscordAlert(`Selling Price decreased for ${item.name} (Selling Price): ${oldPrice} -> ${newPrice}`);
-                            console.log(`  - ${item.name}: (Selling Price) ${backupItem[key]} -> \x1b[32m${item[key]}\x1b[0m (decreased)`);
+                            info(`${item.name}: (Selling Price) ${backupItem[key]} -> \x1b[32m${item[key]}\x1b[0m (decreased)`);
                         } else {
-                            console.log(`  - ${item.name}: (Selling Price) ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (increased)`);
+                            info(`${item.name}: (Selling Price) ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (increased)`);
                         }
                     }
 
@@ -68,10 +69,10 @@ async function runAnalysis() {
         }
     });
 
-    console.log(`${sourceData.data.length} resource prices have been analyzed.`);
+    info(`${sourceData.data.length} resource prices have been analyzed.`);
 
     if (!changesFound) {
-        console.log("  - No changes have been detected.");
+        info("No changes have been detected.");
     }
 }
 

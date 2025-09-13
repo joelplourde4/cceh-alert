@@ -1,5 +1,6 @@
 const cheerio = require("cheerio");
 const fs = require("fs");
+const { info, error } = require("../lib/logger");
 
 // The categories to scrape
 const CATEGORIES = [
@@ -86,10 +87,10 @@ async function scrapeData() {
   try {
     fs.writeFileSync(sourcePath, json, "utf8");
   } catch (err) {
-    console.log('Error writing source.json:' + err.message)
+    error(`Error writing source.json: ${err.message}`);
   }
 
-  console.log(`${data.count} resource prices have been retrieved.`);
+  info(`${data.count} resource prices have been retrieved.`);
 }
 
 module.exports = scrapeData;
