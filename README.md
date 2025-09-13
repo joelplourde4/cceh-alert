@@ -26,7 +26,7 @@ docker build --tag cceh-alert:1.0.0 .
 
 Start the Docker container
 ```
-docker run -e WEBHOOK_URL="https://discord.com/api/webhooks/..." cceh-alert:1.0.0
+docker run -p 8080:8080 -e WEBHOOK_URL="https://discord.com/api/webhooks/..." cceh-alert:1.0.0
 ```
 
 Note:
