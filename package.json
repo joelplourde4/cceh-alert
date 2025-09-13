@@ -1,0 +1,23 @@
+{
+  "name": "cceh-alert",
+  "version": "1.0.0",
+  "description": "Alerting system for the Comptoir Commercial Enchères et en Hausse (cceh.trade)",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "node ./scripts/scrape.js",
+    "analyze": "node ./scripts/analyze.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelplourde4/cceh-alert.git"
+  },
+  "author": "joelplourde4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelplourde4/cceh-alert/issues"
+  },
+  "homepage": "https://github.com/joelplourde4/cceh-alert#readme",
+  "dependencies": {
+    "cheerio": "^1.1.0"
+  }
+}
