@@ -98,7 +98,10 @@ export async function runAnalysis() {
         info("No changes have been detected.");
     } else {
         info("Changes have been detected, uploading the latest file to GitHub.");
+
+        const json = JSON.stringify(sourceData, null, 2);
+
         // Upload the latest data to GitHub
-        await pushFileToGitHub("data/data.json", sourceData, `Update data.json - ${new Date().toISOString()}`);
+        await pushFileToGitHub("data/data.json", json, `Update data.json - ${new Date().toISOString()}`);
     }
 }
