@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-15T18:44:27.066Z",
+  "timestamp": "2025-09-15T18:59:25.967Z",
   "count": 128,
   "data": [
     {
@@ -88,8 +88,8 @@
     },
     {
       "name": "Victuailles",
-      "buyingPrice": "7.25",
-      "buyingQuantity": "200",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "8",
       "sellingQuantity": "74"
     },
@@ -202,8 +202,8 @@
       "name": "Forestier",
       "buyingPrice": null,
       "buyingQuantity": "0",
-      "sellingPrice": "40",
-      "sellingQuantity": "15"
+      "sellingPrice": null,
+      "sellingQuantity": "0"
     },
     {
       "name": "Marin",
@@ -223,8 +223,8 @@
       "name": "Paysan",
       "buyingPrice": "35",
       "buyingQuantity": null,
-      "sellingPrice": "40",
-      "sellingQuantity": "10 (12)"
+      "sellingPrice": "45",
+      "sellingQuantity": "2"
     },
     {
       "name": "Peaux vertes",
@@ -249,8 +249,8 @@
     },
     {
       "name": "Admirateur",
-      "buyingPrice": "75",
-      "buyingQuantity": null,
+      "buyingPrice": "70",
+      "buyingQuantity": "5",
       "sellingPrice": "95",
       "sellingQuantity": "1 (2)"
     },
@@ -277,8 +277,8 @@
     },
     {
       "name": "Ingénieur",
-      "buyingPrice": "60",
-      "buyingQuantity": "3",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "90",
       "sellingQuantity": "13"
     },
@@ -333,8 +333,8 @@
     },
     {
       "name": "Scribe",
-      "buyingPrice": "75",
-      "buyingQuantity": "5",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "100",
       "sellingQuantity": "6 (12)"
     },
@@ -354,8 +354,8 @@
     },
     {
       "name": "Artilleur",
-      "buyingPrice": "325",
-      "buyingQuantity": "1",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "350",
       "sellingQuantity": "1 (7)"
     },
