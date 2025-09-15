@@ -1,6 +1,7 @@
-const cheerio = require("cheerio");
-const fs = require("fs");
-const { info, error } = require("../lib/logger");
+import * as cheerio from "cheerio";
+import fs from "fs";
+import { info, error } from "../lib/logger.js";
+import { pushFileToGitHub } from "../lib/git.js";
 
 // The categories to scrape
 const CATEGORIES = [
@@ -25,13 +26,13 @@ const CATEGORIES = [
     "#minerais",
 ]
 
-const RELATIVE_DATA_PATH = "./data/";
+const RELATIVE_DATA_PATH = "./data";
 
 /**
  * Scrapes data from the target website and saves it to source.json.
  * Creates a backup of the previous source.json as backup.json.
  */
-async function scrapeData() {
+export async function scrapeData() {
   // Fetch the content of the page
   const content = await fetch("https://cceh.trade");
   if (!content.ok) {
@@ -91,6 +92,7 @@ async function scrapeData() {
   }
 
   info(`${data.count} resource prices have been retrieved.`);
-}
 
-module.exports = scrapeData;
+  // Upload the latest data to GitHub
+  await pushFileToGitHub("data/data.json", json, `Update data.json - ${new Date().toISOString()}`);
+}
