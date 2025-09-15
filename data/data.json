@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-09-13T16:47:07.091Z",
-  "count": 127,
+  "timestamp": "2025-09-15T11:49:53.923Z",
+  "count": 128,
   "data": [
     {
       "name": "",
@@ -12,7 +12,7 @@
     {
       "name": "Fiche de population activité",
       "buyingPrice": "100",
-      "buyingQuantity": "24",
+      "buyingQuantity": "13",
       "sellingPrice": "105",
       "sellingQuantity": "25 (32)"
     },
@@ -26,7 +26,7 @@
     {
       "name": "Fiche de population grande bataille",
       "buyingPrice": "100",
-      "buyingQuantity": "32",
+      "buyingQuantity": "25",
       "sellingPrice": "105",
       "sellingQuantity": "14 (19)"
     },
@@ -35,14 +35,14 @@
       "buyingPrice": null,
       "buyingQuantity": "0",
       "sellingPrice": "105",
-      "sellingQuantity": "1 (8)"
+      "sellingQuantity": "3 (10)"
     },
     {
       "name": "Fiche de population Tournoi des nations",
       "buyingPrice": null,
       "buyingQuantity": "0",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "110",
+      "sellingQuantity": "2"
     },
     {
       "name": "",
@@ -56,7 +56,7 @@
       "buyingPrice": "7.25",
       "buyingQuantity": "80",
       "sellingPrice": "8",
-      "sellingQuantity": "20 (80)"
+      "sellingQuantity": "20 (100)"
     },
     {
       "name": "Bétail",
@@ -70,7 +70,7 @@
       "buyingPrice": "7",
       "buyingQuantity": "90",
       "sellingPrice": "8",
-      "sellingQuantity": "66 (79)"
+      "sellingQuantity": "66"
     },
     {
       "name": "Équipement",
@@ -111,8 +111,8 @@
       "name": "Butin",
       "buyingPrice": "65",
       "buyingQuantity": "9",
-      "sellingPrice": "75",
-      "sellingQuantity": "1"
+      "sellingPrice": "70",
+      "sellingQuantity": "1 (2)"
     },
     {
       "name": "Cargaison",
@@ -159,14 +159,14 @@
     {
       "name": "Objet de collection",
       "buyingPrice": "100",
-      "buyingQuantity": "7",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "buyingQuantity": "3",
+      "sellingPrice": "110",
+      "sellingQuantity": "10"
     },
     {
       "name": "Oeuvre",
       "buyingPrice": "30",
-      "buyingQuantity": "15",
+      "buyingQuantity": "19",
       "sellingPrice": "39",
       "sellingQuantity": "5"
     },
@@ -195,8 +195,8 @@
       "name": "Esclaves",
       "buyingPrice": "32",
       "buyingQuantity": null,
-      "sellingPrice": "35",
-      "sellingQuantity": "1 (11)"
+      "sellingPrice": "42",
+      "sellingQuantity": "10"
     },
     {
       "name": "Forestier",
@@ -257,16 +257,16 @@
     {
       "name": "Charpentier",
       "buyingPrice": "70",
-      "buyingQuantity": "5",
+      "buyingQuantity": "4",
       "sellingPrice": "80",
-      "sellingQuantity": "21 (28)"
+      "sellingQuantity": "22 (29)"
     },
     {
       "name": "Croyant",
       "buyingPrice": "150",
       "buyingQuantity": "2",
       "sellingPrice": "180",
-      "sellingQuantity": "4 (8)"
+      "sellingQuantity": "3 (7)"
     },
     {
       "name": "Forgeron",
@@ -279,8 +279,8 @@
       "name": "Ingénieur",
       "buyingPrice": "60",
       "buyingQuantity": "3",
-      "sellingPrice": "75",
-      "sellingQuantity": "2 (15)"
+      "sellingPrice": "90",
+      "sellingQuantity": "13"
     },
     {
       "name": "Intendant",
@@ -349,8 +349,8 @@
       "name": "Archer",
       "buyingPrice": "240",
       "buyingQuantity": "1",
-      "sellingPrice": "255",
-      "sellingQuantity": "1 (4)"
+      "sellingPrice": "300",
+      "sellingQuantity": "6"
     },
     {
       "name": "Artilleur",
@@ -745,6 +745,13 @@
       "sellingQuantity": null
     },
     {
+      "name": "Potion de guérison",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": "1900",
+      "sellingQuantity": "1"
+    },
+    {
       "name": "Poudre à canon",
       "buyingPrice": "750",
       "buyingQuantity": "1",
@@ -874,22 +881,22 @@
       "name": "Minerai d'argent",
       "buyingPrice": "10",
       "buyingQuantity": "10",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "11",
+      "sellingQuantity": "127"
     },
     {
       "name": "Minerai d'or",
       "buyingPrice": "25",
       "buyingQuantity": "17",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "26",
+      "sellingQuantity": "25"
     },
     {
       "name": "Pierres précieuses",
       "buyingPrice": "15",
-      "buyingQuantity": "30",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "buyingQuantity": "26",
+      "sellingPrice": "16",
+      "sellingQuantity": "210"
     }
   ]
 }
