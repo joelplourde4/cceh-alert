@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-15T12:18:34.308Z",
+  "timestamp": "2025-09-15T13:08:25.345Z",
   "count": 128,
   "data": [
     {
@@ -70,7 +70,7 @@
       "buyingPrice": "7",
       "buyingQuantity": "90",
       "sellingPrice": "8",
-      "sellingQuantity": "66"
+      "sellingQuantity": "56"
     },
     {
       "name": "Équipement",
