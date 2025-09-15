@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-15T19:14:26.760Z",
+  "timestamp": "2025-09-15T23:29:25.470Z",
   "count": 128,
   "data": [
     {
@@ -251,8 +251,8 @@
       "name": "Admirateur",
       "buyingPrice": "70",
       "buyingQuantity": "5",
-      "sellingPrice": "95",
-      "sellingQuantity": "1 (2)"
+      "sellingPrice": "85",
+      "sellingQuantity": "5 (7)"
     },
     {
       "name": "Charpentier",
@@ -277,8 +277,8 @@
     },
     {
       "name": "Ingénieur",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "60",
+      "buyingQuantity": "5",
       "sellingPrice": "90",
       "sellingQuantity": "13"
     },
@@ -333,10 +333,10 @@
     },
     {
       "name": "Scribe",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
-      "sellingPrice": "100",
-      "sellingQuantity": "6 (12)"
+      "buyingPrice": "75",
+      "buyingQuantity": "5",
+      "sellingPrice": "85",
+      "sellingQuantity": "5 (17)"
     },
     {
       "name": "",
@@ -354,10 +354,10 @@
     },
     {
       "name": "Artilleur",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "300",
+      "buyingQuantity": "2",
       "sellingPrice": "350",
-      "sellingQuantity": "1 (7)"
+      "sellingQuantity": "2 (8)"
     },
     {
       "name": "Canon",
