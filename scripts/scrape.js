@@ -1,7 +1,6 @@
 import * as cheerio from "cheerio";
 import fs from "fs";
 import { info, error } from "../lib/logger.js";
-import { pushFileToGitHub } from "../lib/git.js";
 
 // The categories to scrape
 const CATEGORIES = [
@@ -92,7 +91,4 @@ export async function scrapeData() {
   }
 
   info(`${data.count} resource prices have been retrieved.`);
-
-  // Upload the latest data to GitHub
-  await pushFileToGitHub("data/data.json", json, `Update data.json - ${new Date().toISOString()}`);
 }
