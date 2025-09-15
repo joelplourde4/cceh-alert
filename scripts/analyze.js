@@ -2,6 +2,7 @@ import fs from "fs";
 import { scrapeData } from "./scrape.js";
 import { sendDiscordAlert } from "../lib/alerts.js";
 import { info, warn } from "../lib/logger.js";
+import { pushFileToGitHub } from "../lib/git.js";
 
 /**
  * Runs analysis on the scraped data to identify changes.
@@ -73,5 +74,9 @@ export async function runAnalysis() {
 
     if (!changesFound) {
         info("No changes have been detected.");
+    } else {
+        info("Changes have been detected, uploading the latest file to GitHub.");
+        // Upload the latest data to GitHub
+        await pushFileToGitHub("data/data.json", sourceData, `Update data.json - ${new Date().toISOString()}`);
     }
 }
