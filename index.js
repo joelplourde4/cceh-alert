@@ -1,8 +1,9 @@
-const scrapeData = require('./scripts/scrape');
-const runAnalysis = require('./scripts/analyze');
-const { validateConfiguration } = require('./lib/alerts');
-const express = require('express');
-const { info } = require('./lib/logger');
+import { fetchData } from "./scripts/initialize.js";
+import { scrapeData } from "./scripts/scrape.js";
+import { runAnalysis } from "./scripts/analyze.js";
+import { validateConfiguration } from "./lib/alerts.js";
+import express from "express";
+import { info } from "./lib/logger.js";
 
 const INTERVAL = 15 * 60 * 1000; // 15 minutes
 
@@ -23,7 +24,7 @@ validateConfiguration();
 
 info("Starting initial data fetch...");
 // Scrape data immediately on start so we have something to compare to.
-scrapeData().then(async () => {
+fetchData().then(async () => {
     // Then run the analysis
     await runScripts();
 });

@@ -1,14 +1,14 @@
-const fs = require("fs");
-const scrapeData = require("./scrape");
-const { sendDiscordAlert } = require("../lib/alerts");
-const { info, warn } = require("../lib/logger");
+import fs from "fs";
+import { scrapeData } from "./scrape.js";
+import { sendDiscordAlert } from "../lib/alerts.js";
+import { info, warn } from "../lib/logger.js";
 
 /**
  * Runs analysis on the scraped data to identify changes.
  * Compares the current data with a backup and logs any differences.
  * Highlights price increases in green and decreases in red.
  */
-async function runAnalysis() {
+export async function runAnalysis() {
     if (fs.existsSync("./data/backup.json") === false) {
         warn("backup.json file not found. Creating one by running the scrape script twice.");
         await scrapeData();
@@ -75,5 +75,3 @@ async function runAnalysis() {
         info("No changes have been detected.");
     }
 }
-
-module.exports = runAnalysis;
