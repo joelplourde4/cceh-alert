@@ -45,7 +45,7 @@ export async function runAnalysis() {
                         const newPrice = parseFloat(item[key]);
 
                         if (!isNaN(oldPrice) && !isNaN(newPrice) && newPrice > oldPrice) {
-                            sendDiscordAlert(`Buying Price increased for ${item.name} (Buying Price): ${oldPrice} -> ${newPrice}`);
+                            sendDiscordAlert(`Buying Price increased for ${item.name}: ${oldPrice} -> ${newPrice}`);
                             info(`${item.name}: (Buying Price) ${backupItem[key]} -> \x1b[32m${item[key]}\x1b[0m (increased)`);
                         } else {
                             info(`${item.name}: (Buying Price) ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (decreased)`);
@@ -57,10 +57,32 @@ export async function runAnalysis() {
                         const oldPrice = parseFloat(backupItem[key]);
                         const newPrice = parseFloat(item[key]);
                         if (!isNaN(oldPrice) && !isNaN(newPrice) && newPrice < oldPrice) {
-                            sendDiscordAlert(`Selling Price decreased for ${item.name} (Selling Price): ${oldPrice} -> ${newPrice}`);
+                            sendDiscordAlert(`Selling Price decreased for ${item.name}: ${oldPrice} -> ${newPrice}`);
                             info(`${item.name}: (Selling Price) ${backupItem[key]} -> \x1b[32m${item[key]}\x1b[0m (decreased)`);
                         } else {
                             info(`${item.name}: (Selling Price) ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (increased)`);
+                        }
+                    }
+
+                    if (key === "buyingQuantity") {
+                        const oldQty = parseInt(backupItem[key]);
+                        const newQty = parseInt(item[key]);
+                        if (!isNaN(oldQty) && !isNaN(newQty) && newQty > oldQty) {
+                            sendDiscordAlert(`Buying Quantity increased for ${item.name}: ${oldQty} -> ${newQty}`);
+                            info(`${item.name}: (Buying Quantity) ${backupItem[key]} -> \x1b[32m${item[key]}\x1b[0m (increased)`);
+                        } else {
+                            info(`${item.name}: (Buying Quantity) ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (decreased)`);
+                        }
+                    }
+
+                    if (key === "sellingQuantity") {
+                        const oldQty = parseInt(backupItem[key]);
+                        const newQty = parseInt(item[key]);
+                        if (!isNaN(oldQty) && !isNaN(newQty) && newQty > oldQty) {
+                            sendDiscordAlert(`Selling Quantity increased for ${item.name}: ${oldQty} -> ${newQty}`);
+                            info(`${item.name}: (Selling Quantity) ${backupItem[key]} -> \x1b[32m${item[key]}\x1b[0m (increased)`);
+                        } else {
+                            info(`${item.name}: (Selling Quantity) ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (decreased)`);
                         }
                     }
 
