@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-16T00:29:25.469Z",
+  "timestamp": "2025-09-16T02:44:26.762Z",
   "count": 128,
   "data": [
     {
@@ -88,8 +88,8 @@
     },
     {
       "name": "Victuailles",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "7",
+      "buyingQuantity": "100",
       "sellingPrice": "8",
       "sellingQuantity": "74"
     },
