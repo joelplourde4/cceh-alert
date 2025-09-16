@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-16T21:09:04.715Z",
+  "timestamp": "2025-09-16T21:54:02.720Z",
   "count": 128,
   "data": [
     {
@@ -118,8 +118,8 @@
       "name": "Cargaison",
       "buyingPrice": "100",
       "buyingQuantity": "4",
-      "sellingPrice": "115",
-      "sellingQuantity": "10"
+      "sellingPrice": "114",
+      "sellingQuantity": "12 (22)"
     },
     {
       "name": "Faveur Divine",
@@ -315,7 +315,7 @@
       "buyingPrice": "50",
       "buyingQuantity": "5",
       "sellingPrice": "65",
-      "sellingQuantity": "16"
+      "sellingQuantity": "10"
     },
     {
       "name": "Mentor Maritime",
@@ -384,8 +384,8 @@
       "name": "Mercenaire",
       "buyingPrice": "160",
       "buyingQuantity": "2",
-      "sellingPrice": "175",
-      "sellingQuantity": "1 (5)"
+      "sellingPrice": "180",
+      "sellingQuantity": "1 (4)"
     },
     {
       "name": "Milice",
