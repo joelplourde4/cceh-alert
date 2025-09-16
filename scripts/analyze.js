@@ -21,13 +21,40 @@ export async function runAnalysis() {
     // Then load the current source file
     const sourceData = JSON.parse(fs.readFileSync("./data/source.json", "utf8"));
 
+    // Analyze changes between sourceData and backupData
+    const { changesFound, results } = compare(backupData, sourceData);
+
+    info(`${sourceData.data.length} resource prices have been analyzed.`);
+
+    if (!changesFound) {
+        info("No changes have been detected.");
+    } else {
+
+        info("Changes have been detected:");
+
+        info("Sending Discord alert...");
+        const formattedResults = formatResults(results);
+        sendDiscordAlert("Changes detected: \n" + formattedResults);
+
+        info("Uploading the latest data.json to GitHub...");
+        const json = JSON.stringify(sourceData, null, 2);
+
+        // Upload the latest data to GitHub
+        await pushFileToGitHub("data/data.json", json, `Update data.json - ${new Date().toISOString()}`);
+    }
+}
+
+export function compare(backupData, sourceData) {
     // Create a map of backup items for easy lookup
     const backupMap = new Map();
     backupData.data.forEach(item => {
         backupMap.set(item.name, item);
     });
 
+
     let changesFound = false;
+
+    let results = [];
 
     // Analyze changes between sourceData and backupData
     sourceData.data.forEach(item => {
@@ -45,10 +72,10 @@ export async function runAnalysis() {
                         const newPrice = parseFloat(item[key]);
 
                         if (!isNaN(oldPrice) && !isNaN(newPrice) && newPrice > oldPrice) {
-                            sendDiscordAlert(`Buying Price increased for ${item.name}: ${oldPrice} -> ${newPrice} :chart_with_upwards_trend: :money_with_wings:`);
+                            results.push(`${item.name}: (Buying Price) ${backupItem[key]} -> ${item[key]} (increased)`);
                             info(`${item.name}: (Buying Price) ${backupItem[key]} -> \x1b[32m${item[key]}\x1b[0m (increased)`);
                         } else {
-                            sendDiscordAlert(`Buying Price decreased for ${item.name}: ${oldPrice} -> ${newPrice} :chart_with_downwards_trend:`);
+                            results.push(`${item.name}: (Buying Price) ${backupItem[key]} -> ${item[key]} (decreased)`);
                             info(`${item.name}: (Buying Price) ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (decreased)`);
                         }
                     }
@@ -58,10 +85,10 @@ export async function runAnalysis() {
                         const oldPrice = parseFloat(backupItem[key]);
                         const newPrice = parseFloat(item[key]);
                         if (!isNaN(oldPrice) && !isNaN(newPrice) && newPrice < oldPrice) {
-                            sendDiscordAlert(`Selling Price decreased for ${item.name}: ${oldPrice} -> ${newPrice} :chart_with_downwards_trend: :money_with_wings:`);
+                            results.push(`${item.name}: (Selling Price) ${backupItem[key]} -> ${item[key]} (decreased)`);
                             info(`${item.name}: (Selling Price) ${backupItem[key]} -> \x1b[32m${item[key]}\x1b[0m (decreased)`);
                         } else {
-                            sendDiscordAlert(`Selling Price increased for ${item.name}: ${oldPrice} -> ${newPrice} :chart_with_upwards_trend:`);
+                            results.push(`${item.name}: (Selling Price) ${backupItem[key]} -> ${item[key]} (increased)`);
                             info(`${item.name}: (Selling Price) ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (increased)`);
                         }
                     }
@@ -70,10 +97,10 @@ export async function runAnalysis() {
                         const oldQty = parseInt(backupItem[key]);
                         const newQty = parseInt(item[key]);
                         if (!isNaN(oldQty) && !isNaN(newQty) && newQty > oldQty) {
-                            sendDiscordAlert(`Buying Quantity increased for ${item.name}: ${oldQty} -> ${newQty} :small_red_triangle:`);
+                            results.push(`${item.name}: (Buying Quantity) ${backupItem[key]} -> ${item[key]} (increased)`);
                             info(`${item.name}: (Buying Quantity) ${backupItem[key]} -> \x1b[32m${item[key]}\x1b[0m (increased)`);
                         } else {
-                            sendDiscordAlert(`Buying Quantity decreased for ${item.name}: ${oldQty} -> ${newQty} :small_red_triangle_down:`);
+                            results.push(`${item.name}: (Buying Quantity) ${backupItem[key]} -> ${item[key]} (decreased)`);
                             info(`${item.name}: (Buying Quantity) ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (decreased)`);
                         }
                     }
@@ -82,10 +109,10 @@ export async function runAnalysis() {
                         const oldQty = parseInt(backupItem[key]);
                         const newQty = parseInt(item[key]);
                         if (!isNaN(oldQty) && !isNaN(newQty) && newQty > oldQty) {
-                            sendDiscordAlert(`Selling Quantity increased for ${item.name}: ${oldQty} -> ${newQty} :small_red_triangle:`);
+                            results.push(`${item.name}: (Selling Quantity) ${backupItem[key]} -> ${item[key]} (increased)`);
                             info(`${item.name}: (Selling Quantity) ${backupItem[key]} -> \x1b[32m${item[key]}\x1b[0m (increased)`);
                         } else {
-                            sendDiscordAlert(`Selling Quantity decreased for ${item.name}: ${oldQty} -> ${newQty} :small_red_triangle_down:`);
+                            results.push(`${item.name}: (Selling Quantity) ${backupItem[key]} -> \x1b[31m${item[key]} (decreased)`);
                             info(`${item.name}: (Selling Quantity) ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (decreased)`);
                         }
                     }
@@ -96,16 +123,12 @@ export async function runAnalysis() {
         }
     });
 
-    info(`${sourceData.data.length} resource prices have been analyzed.`);
+    return { changesFound, results };
+}
 
-    if (!changesFound) {
-        info("No changes have been detected.");
-    } else {
-        info("Changes have been detected, uploading the latest file to GitHub.");
-
-        const json = JSON.stringify(sourceData, null, 2);
-
-        // Upload the latest data to GitHub
-        await pushFileToGitHub("data/data.json", json, `Update data.json - ${new Date().toISOString()}`);
-    }
+export function formatResults(results) {
+    // For each results, convert null value to "N/A", then join them with a new line
+    return results
+        .map(line => line.replace(null, "N/A"))
+        .join("\n");
 }

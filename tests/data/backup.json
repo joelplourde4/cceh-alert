@@ -1,0 +1,902 @@
+{
+  "timestamp": "2025-09-16T10:14:26.863Z",
+  "count": 128,
+  "data": [
+    {
+      "name": "",
+      "buyingPrice": null,
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": null
+    },
+    {
+      "name": "Fiche de population activité",
+      "buyingPrice": "100",
+      "buyingQuantity": "13",
+      "sellingPrice": "105",
+      "sellingQuantity": "25 (32)"
+    },
+    {
+      "name": "Fiche de population événement spécial",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": "195",
+      "sellingQuantity": "5 (13)"
+    },
+    {
+      "name": "Fiche de population grande bataille",
+      "buyingPrice": "100",
+      "buyingQuantity": "25",
+      "sellingPrice": "105",
+      "sellingQuantity": "14 (19)"
+    },
+    {
+      "name": "Fiche de population thématique",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": "105",
+      "sellingQuantity": "3 (10)"
+    },
+    {
+      "name": "Fiche de population Tournoi des nations",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": "110",
+      "sellingQuantity": "2"
+    },
+    {
+      "name": "",
+      "buyingPrice": null,
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": null
+    },
+    {
+      "name": "Armement",
+      "buyingPrice": "7.25",
+      "buyingQuantity": "80",
+      "sellingPrice": "8.50",
+      "sellingQuantity": "40 (80)"
+    },
+    {
+      "name": "Bétail",
+      "buyingPrice": "6.50",
+      "buyingQuantity": "100",
+      "sellingPrice": "7.50",
+      "sellingQuantity": "100 (230)"
+    },
+    {
+      "name": "Céréales",
+      "buyingPrice": "7",
+      "buyingQuantity": "90",
+      "sellingPrice": "8",
+      "sellingQuantity": "56"
+    },
+    {
+      "name": "Équipement",
+      "buyingPrice": "7.50",
+      "buyingQuantity": "100",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Ressources",
+      "buyingPrice": "7.50",
+      "buyingQuantity": "100",
+      "sellingPrice": "8",
+      "sellingQuantity": "71 (121)"
+    },
+    {
+      "name": "Victuailles",
+      "buyingPrice": "7",
+      "buyingQuantity": "100",
+      "sellingPrice": "8",
+      "sellingQuantity": "74"
+    },
+    {
+      "name": "",
+      "buyingPrice": null,
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": null
+    },
+    {
+      "name": "Bateau de pêche",
+      "buyingPrice": "80",
+      "buyingQuantity": "4",
+      "sellingPrice": "105",
+      "sellingQuantity": "1"
+    },
+    {
+      "name": "Butin",
+      "buyingPrice": "65",
+      "buyingQuantity": "7",
+      "sellingPrice": "70",
+      "sellingQuantity": "1 (2)"
+    },
+    {
+      "name": "Cargaison",
+      "buyingPrice": "100",
+      "buyingQuantity": "4",
+      "sellingPrice": "115",
+      "sellingQuantity": "10"
+    },
+    {
+      "name": "Faveur Divine",
+      "buyingPrice": "8",
+      "buyingQuantity": "100",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Faveur Magique",
+      "buyingPrice": "8",
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Faveur Occulte",
+      "buyingPrice": "8",
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Lettre de change 1000 Nouveau Monde",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": "1300",
+      "sellingQuantity": "1"
+    },
+    {
+      "name": "Lettre de change 3000 Nouveau Monde",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": "4000",
+      "sellingQuantity": "1"
+    },
+    {
+      "name": "Objet de collection",
+      "buyingPrice": "100",
+      "buyingQuantity": "3",
+      "sellingPrice": "110",
+      "sellingQuantity": "10"
+    },
+    {
+      "name": "Oeuvre",
+      "buyingPrice": "30",
+      "buyingQuantity": "19",
+      "sellingPrice": "39",
+      "sellingQuantity": "5"
+    },
+    {
+      "name": "Renommée Artistique",
+      "buyingPrice": "9",
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Sépium",
+      "buyingPrice": "33",
+      "buyingQuantity": "20",
+      "sellingPrice": "44",
+      "sellingQuantity": "27"
+    },
+    {
+      "name": "",
+      "buyingPrice": null,
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": null
+    },
+    {
+      "name": "Esclaves",
+      "buyingPrice": "32",
+      "buyingQuantity": null,
+      "sellingPrice": "42",
+      "sellingQuantity": "10"
+    },
+    {
+      "name": "Forestier",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Marin",
+      "buyingPrice": "35",
+      "buyingQuantity": "10",
+      "sellingPrice": "45",
+      "sellingQuantity": "3"
+    },
+    {
+      "name": "Nomade",
+      "buyingPrice": "34",
+      "buyingQuantity": "5",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Paysan",
+      "buyingPrice": "35",
+      "buyingQuantity": null,
+      "sellingPrice": "45",
+      "sellingQuantity": "2"
+    },
+    {
+      "name": "Peaux vertes",
+      "buyingPrice": "33",
+      "buyingQuantity": "10",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Voelhoorn",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "",
+      "buyingPrice": null,
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": null
+    },
+    {
+      "name": "Admirateur",
+      "buyingPrice": "70",
+      "buyingQuantity": "5",
+      "sellingPrice": "85",
+      "sellingQuantity": "5 (7)"
+    },
+    {
+      "name": "Charpentier",
+      "buyingPrice": "70",
+      "buyingQuantity": "4",
+      "sellingPrice": "80",
+      "sellingQuantity": "21 (28)"
+    },
+    {
+      "name": "Croyant",
+      "buyingPrice": "150",
+      "buyingQuantity": "2",
+      "sellingPrice": "180",
+      "sellingQuantity": "3 (7)"
+    },
+    {
+      "name": "Forgeron",
+      "buyingPrice": "70",
+      "buyingQuantity": "5",
+      "sellingPrice": "90",
+      "sellingQuantity": "9"
+    },
+    {
+      "name": "Ingénieur",
+      "buyingPrice": "60",
+      "buyingQuantity": "5",
+      "sellingPrice": "90",
+      "sellingQuantity": "13"
+    },
+    {
+      "name": "Intendant",
+      "buyingPrice": "75",
+      "buyingQuantity": "9",
+      "sellingPrice": "90",
+      "sellingQuantity": "1 (7)"
+    },
+    {
+      "name": "Laborantin",
+      "buyingPrice": "60",
+      "buyingQuantity": "5",
+      "sellingPrice": "75",
+      "sellingQuantity": "6 (13)"
+    },
+    {
+      "name": "Maçon",
+      "buyingPrice": "70",
+      "buyingQuantity": "5",
+      "sellingPrice": "80",
+      "sellingQuantity": "17 (37)"
+    },
+    {
+      "name": "Mécène",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": "500",
+      "sellingQuantity": "1"
+    },
+    {
+      "name": "Mentor d'aventurier",
+      "buyingPrice": "50",
+      "buyingQuantity": "5",
+      "sellingPrice": "65",
+      "sellingQuantity": "16"
+    },
+    {
+      "name": "Mentor Maritime",
+      "buyingPrice": "60",
+      "buyingQuantity": "5",
+      "sellingPrice": "75",
+      "sellingQuantity": "8 (10)"
+    },
+    {
+      "name": "Mentor Militaire",
+      "buyingPrice": "60",
+      "buyingQuantity": "5",
+      "sellingPrice": "75",
+      "sellingQuantity": "19 (22)"
+    },
+    {
+      "name": "Scribe",
+      "buyingPrice": "75",
+      "buyingQuantity": "0",
+      "sellingPrice": "100",
+      "sellingQuantity": "5 (17)"
+    },
+    {
+      "name": "",
+      "buyingPrice": null,
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": null
+    },
+    {
+      "name": "Archer",
+      "buyingPrice": "240",
+      "buyingQuantity": "1",
+      "sellingPrice": "300",
+      "sellingQuantity": "6"
+    },
+    {
+      "name": "Artilleur",
+      "buyingPrice": "300",
+      "buyingQuantity": "2",
+      "sellingPrice": "350",
+      "sellingQuantity": "2 (8)"
+    },
+    {
+      "name": "Canon",
+      "buyingPrice": "1100",
+      "buyingQuantity": "1",
+      "sellingPrice": "1200",
+      "sellingQuantity": "1 (4)"
+    },
+    {
+      "name": "Cavalier",
+      "buyingPrice": "340",
+      "buyingQuantity": "2",
+      "sellingPrice": "425",
+      "sellingQuantity": "3"
+    },
+    {
+      "name": "Chevalier",
+      "buyingPrice": "500",
+      "buyingQuantity": "1",
+      "sellingPrice": "550",
+      "sellingQuantity": "1 (8)"
+    },
+    {
+      "name": "Mercenaire",
+      "buyingPrice": "160",
+      "buyingQuantity": "2",
+      "sellingPrice": "175",
+      "sellingQuantity": "1 (5)"
+    },
+    {
+      "name": "Milice",
+      "buyingPrice": "275",
+      "buyingQuantity": "1",
+      "sellingPrice": "300",
+      "sellingQuantity": "1 (5)"
+    },
+    {
+      "name": "Soldat de métier",
+      "buyingPrice": "290",
+      "buyingQuantity": "2",
+      "sellingPrice": "320",
+      "sellingQuantity": "1 (4)"
+    },
+    {
+      "name": "Trébuchet",
+      "buyingPrice": "320",
+      "buyingQuantity": "1",
+      "sellingPrice": "330",
+      "sellingQuantity": "1 (4)"
+    },
+    {
+      "name": "",
+      "buyingPrice": null,
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": null
+    },
+    {
+      "name": "Assassin",
+      "buyingPrice": "240",
+      "buyingQuantity": "2",
+      "sellingPrice": "270",
+      "sellingQuantity": "2"
+    },
+    {
+      "name": "Brigand",
+      "buyingPrice": "220",
+      "buyingQuantity": "2",
+      "sellingPrice": "230",
+      "sellingQuantity": "1 (4)"
+    },
+    {
+      "name": "",
+      "buyingPrice": null,
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": null
+    },
+    {
+      "name": "Aventurier",
+      "buyingPrice": "270",
+      "buyingQuantity": "1",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Hommes-rats",
+      "buyingPrice": "220",
+      "buyingQuantity": "2",
+      "sellingPrice": "240",
+      "sellingQuantity": "1 (5)"
+    },
+    {
+      "name": "Tirailleurs",
+      "buyingPrice": "225",
+      "buyingQuantity": "2",
+      "sellingPrice": "250",
+      "sellingQuantity": "1 (4)"
+    },
+    {
+      "name": "",
+      "buyingPrice": null,
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": null
+    },
+    {
+      "name": "Combattant embarqué",
+      "buyingPrice": "300",
+      "buyingQuantity": "1",
+      "sellingPrice": "380",
+      "sellingQuantity": "3"
+    },
+    {
+      "name": "Flobart",
+      "buyingPrice": "340",
+      "buyingQuantity": "1",
+      "sellingPrice": "370",
+      "sellingQuantity": "1 (2)"
+    },
+    {
+      "name": "Pirate",
+      "buyingPrice": "220",
+      "buyingQuantity": "3",
+      "sellingPrice": "250",
+      "sellingQuantity": "5"
+    },
+    {
+      "name": "Voile de guerre",
+      "buyingPrice": "480",
+      "buyingQuantity": "1",
+      "sellingPrice": "520",
+      "sellingQuantity": "2 (4)"
+    },
+    {
+      "name": "",
+      "buyingPrice": null,
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": null
+    },
+    {
+      "name": "Janissaire",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": "300",
+      "sellingQuantity": "2"
+    },
+    {
+      "name": "Kornac",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": "575",
+      "sellingQuantity": "3 (4)"
+    },
+    {
+      "name": "",
+      "buyingPrice": null,
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": null
+    },
+    {
+      "name": "Arquen",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Ilta-matcha",
+      "buyingPrice": "320",
+      "buyingQuantity": "1",
+      "sellingPrice": "340",
+      "sellingQuantity": "1 (3)"
+    },
+    {
+      "name": "Milice elfique",
+      "buyingPrice": "260",
+      "buyingQuantity": "1",
+      "sellingPrice": "300",
+      "sellingQuantity": "1"
+    },
+    {
+      "name": "Roquen",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "",
+      "buyingPrice": null,
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": null
+    },
+    {
+      "name": "Chevaucheur de loup",
+      "buyingPrice": "340",
+      "buyingQuantity": "1",
+      "sellingPrice": "380",
+      "sellingQuantity": "1"
+    },
+    {
+      "name": "Guerrier orque",
+      "buyingPrice": "260",
+      "buyingQuantity": "1",
+      "sellingPrice": "280",
+      "sellingQuantity": "1"
+    },
+    {
+      "name": "Ushatar",
+      "buyingPrice": "280",
+      "buyingQuantity": "1",
+      "sellingPrice": "300",
+      "sellingQuantity": "5"
+    },
+    {
+      "name": "Vargkwen",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "",
+      "buyingPrice": null,
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": null
+    },
+    {
+      "name": "Démon",
+      "buyingPrice": "500",
+      "buyingQuantity": "1",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Mort-vivant",
+      "buyingPrice": "180",
+      "buyingQuantity": "1",
+      "sellingPrice": "200",
+      "sellingQuantity": "1 (2)"
+    },
+    {
+      "name": "",
+      "buyingPrice": null,
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": null
+    },
+    {
+      "name": "Crâne",
+      "buyingPrice": "100",
+      "buyingQuantity": "1",
+      "sellingPrice": "110",
+      "sellingQuantity": "2 (8)"
+    },
+    {
+      "name": "Énergie pure",
+      "buyingPrice": "800",
+      "buyingQuantity": "1",
+      "sellingPrice": "900",
+      "sellingQuantity": "1 (2)"
+    },
+    {
+      "name": "Esprit de la forêt",
+      "buyingPrice": "90",
+      "buyingQuantity": "4",
+      "sellingPrice": "100",
+      "sellingQuantity": "1 (2)"
+    },
+    {
+      "name": "Golhir",
+      "buyingPrice": "90",
+      "buyingQuantity": "1",
+      "sellingPrice": "105",
+      "sellingQuantity": "1 (2)"
+    },
+    {
+      "name": "Ingrédient",
+      "buyingPrice": "90",
+      "buyingQuantity": "2",
+      "sellingPrice": "105",
+      "sellingQuantity": "2 (18)"
+    },
+    {
+      "name": "Invention",
+      "buyingPrice": "105",
+      "buyingQuantity": null,
+      "sellingPrice": "120",
+      "sellingQuantity": "1 (4)"
+    },
+    {
+      "name": "Manthora",
+      "buyingPrice": "100",
+      "buyingQuantity": null,
+      "sellingPrice": "110",
+      "sellingQuantity": "1 (5)"
+    },
+    {
+      "name": "Miguisse",
+      "buyingPrice": "100",
+      "buyingQuantity": "1",
+      "sellingPrice": "110",
+      "sellingQuantity": "1 (4)"
+    },
+    {
+      "name": "Points de pouvoir",
+      "buyingPrice": "500",
+      "buyingQuantity": "1",
+      "sellingPrice": "575",
+      "sellingQuantity": "1 (2)"
+    },
+    {
+      "name": "Souffle de vie",
+      "buyingPrice": "90",
+      "buyingQuantity": "2",
+      "sellingPrice": "105",
+      "sellingQuantity": "1 (12)"
+    },
+    {
+      "name": "Svir-Kala",
+      "buyingPrice": "100",
+      "buyingQuantity": null,
+      "sellingPrice": "110",
+      "sellingQuantity": "1 (11)"
+    },
+    {
+      "name": "",
+      "buyingPrice": null,
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": null
+    },
+    {
+      "name": "Cheveux de sirène",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": "500",
+      "sellingQuantity": "1"
+    },
+    {
+      "name": "Crâne d'un minotaure",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": "425",
+      "sellingQuantity": "1"
+    },
+    {
+      "name": "Écaille d'un reptile centennaire",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": "495",
+      "sellingQuantity": "1"
+    },
+    {
+      "name": "Nageoire d'un ballassoin à 2 cornes",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": "500",
+      "sellingQuantity": "1"
+    },
+    {
+      "name": "Os de dragon noir",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": "600",
+      "sellingQuantity": "1"
+    },
+    {
+      "name": "Saphir tellurique",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": "525",
+      "sellingQuantity": "1"
+    },
+    {
+      "name": "",
+      "buyingPrice": null,
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": null
+    },
+    {
+      "name": "Potion de guérison",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": "1900",
+      "sellingQuantity": "1"
+    },
+    {
+      "name": "Poudre à canon",
+      "buyingPrice": "750",
+      "buyingQuantity": "1",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Rune Naine",
+      "buyingPrice": "200",
+      "buyingQuantity": "2",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "",
+      "buyingPrice": null,
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": null
+    },
+    {
+      "name": "Influence Andore",
+      "buyingPrice": "25",
+      "buyingQuantity": "10",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Influence Berkwald",
+      "buyingPrice": "20",
+      "buyingQuantity": "5",
+      "sellingPrice": "30",
+      "sellingQuantity": "2"
+    },
+    {
+      "name": "Influence Cité des sables",
+      "buyingPrice": "25",
+      "buyingQuantity": "10",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Influence de Carcosa",
+      "buyingPrice": "25",
+      "buyingQuantity": "10",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Influence de Pays de Kafe",
+      "buyingPrice": "25",
+      "buyingQuantity": "5",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Influence Empire",
+      "buyingPrice": "30",
+      "buyingQuantity": "10",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Influence Fédération Argannaise",
+      "buyingPrice": "20",
+      "buyingQuantity": "5",
+      "sellingPrice": "30",
+      "sellingQuantity": "5"
+    },
+    {
+      "name": "Influence Irendille",
+      "buyingPrice": "25",
+      "buyingQuantity": "10",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Influence Nasgaroth",
+      "buyingPrice": "15",
+      "buyingQuantity": "20",
+      "sellingPrice": "25",
+      "sellingQuantity": "10 (20)"
+    },
+    {
+      "name": "Influence Ozame",
+      "buyingPrice": "25",
+      "buyingQuantity": "5",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Influence Terre d'Auquesse",
+      "buyingPrice": "25",
+      "buyingQuantity": "5",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Influence Terres du sud",
+      "buyingPrice": "20",
+      "buyingQuantity": "5",
+      "sellingPrice": "30",
+      "sellingQuantity": "5"
+    },
+    {
+      "name": "Influence Territoire de l'oubli",
+      "buyingPrice": "20",
+      "buyingQuantity": "10",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Influences Terres des brumes",
+      "buyingPrice": "25",
+      "buyingQuantity": "5",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "",
+      "buyingPrice": null,
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": null
+    },
+    {
+      "name": "Minerai d'argent",
+      "buyingPrice": "10",
+      "buyingQuantity": "10",
+      "sellingPrice": "11",
+      "sellingQuantity": "127"
+    },
+    {
+      "name": "Minerai d'or",
+      "buyingPrice": "25",
+      "buyingQuantity": "17",
+      "sellingPrice": "26",
+      "sellingQuantity": "25"
+    },
+    {
+      "name": "Pierres précieuses",
+      "buyingPrice": "15",
+      "buyingQuantity": "26",
+      "sellingPrice": "16",
+      "sellingQuantity": "210"
+    }
+  ]
+}
