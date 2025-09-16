@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-16T10:14:26.863Z",
+  "timestamp": "2025-09-16T19:09:10.731Z",
   "count": 128,
   "data": [
     {
@@ -256,10 +256,10 @@
     },
     {
       "name": "Charpentier",
-      "buyingPrice": "70",
-      "buyingQuantity": "4",
-      "sellingPrice": "80",
-      "sellingQuantity": "21 (28)"
+      "buyingPrice": "65",
+      "buyingQuantity": "10",
+      "sellingPrice": "75",
+      "sellingQuantity": "15 (28)"
     },
     {
       "name": "Croyant",
@@ -361,9 +361,9 @@
     },
     {
       "name": "Canon",
-      "buyingPrice": "1100",
+      "buyingPrice": "1050",
       "buyingQuantity": "1",
-      "sellingPrice": "1200",
+      "sellingPrice": "1150",
       "sellingQuantity": "1 (4)"
     },
     {
