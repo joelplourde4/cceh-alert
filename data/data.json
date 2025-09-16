@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-15T23:29:25.470Z",
+  "timestamp": "2025-09-16T00:14:26.660Z",
   "count": 128,
   "data": [
     {
@@ -84,7 +84,7 @@
       "buyingPrice": "7.50",
       "buyingQuantity": "100",
       "sellingPrice": "8",
-      "sellingQuantity": "126 (176)"
+      "sellingQuantity": "121 (171)"
     },
     {
       "name": "Victuailles",
@@ -110,7 +110,7 @@
     {
       "name": "Butin",
       "buyingPrice": "65",
-      "buyingQuantity": "9",
+      "buyingQuantity": "7",
       "sellingPrice": "70",
       "sellingQuantity": "1 (2)"
     },
@@ -259,7 +259,7 @@
       "buyingPrice": "70",
       "buyingQuantity": "4",
       "sellingPrice": "80",
-      "sellingQuantity": "22 (29)"
+      "sellingQuantity": "21 (28)"
     },
     {
       "name": "Croyant",
@@ -301,7 +301,7 @@
       "buyingPrice": "70",
       "buyingQuantity": "5",
       "sellingPrice": "80",
-      "sellingQuantity": "19 (39)"
+      "sellingQuantity": "17 (37)"
     },
     {
       "name": "Mécène",
