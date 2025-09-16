@@ -51,7 +51,6 @@ export function compare(backupData, sourceData) {
         backupMap.set(item.name, item);
     });
 
-
     let changesFound = false;
 
     let results = [];
