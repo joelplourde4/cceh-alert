@@ -259,7 +259,7 @@
       "buyingPrice": "70",
       "buyingQuantity": "4",
       "sellingPrice": "80",
-      "sellingQuantity": "21 (28)"
+      "sellingQuantity": "15 (28)"
     },
     {
       "name": "Croyant",
@@ -272,8 +272,8 @@
       "name": "Forgeron",
       "buyingPrice": "70",
       "buyingQuantity": "5",
-      "sellingPrice": "90",
-      "sellingQuantity": "9"
+      "sellingPrice": null,
+      "sellingQuantity": "0"
     },
     {
       "name": "Ingénieur",
@@ -347,7 +347,7 @@
     },
     {
       "name": "Archer",
-      "buyingPrice": "240",
+      "buyingPrice": "290",
       "buyingQuantity": "1",
       "sellingPrice": "300",
       "sellingQuantity": "6"

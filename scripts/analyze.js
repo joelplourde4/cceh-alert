@@ -71,10 +71,10 @@ export function compare(backupData, sourceData) {
                         const newPrice = parseFloat(item[key]);
 
                         if (!isNaN(oldPrice) && !isNaN(newPrice) && newPrice > oldPrice) {
-                            results.push(`${item.name}: (Buying Price) ${backupItem[key]} -> ${item[key]} (increased)`);
+                            results.push(`- ${item.name}: (Buying Price) ${backupItem[key]} -> ${item[key]} (increased) :money_with_wings:`);
                             info(`${item.name}: (Buying Price) ${backupItem[key]} -> \x1b[32m${item[key]}\x1b[0m (increased)`);
                         } else {
-                            results.push(`${item.name}: (Buying Price) ${backupItem[key]} -> ${item[key]} (decreased)`);
+                            results.push(`- ${item.name}: (Buying Price) ${backupItem[key]} -> ${item[key]} (decreased)`);
                             info(`${item.name}: (Buying Price) ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (decreased)`);
                         }
                     }
@@ -84,10 +84,10 @@ export function compare(backupData, sourceData) {
                         const oldPrice = parseFloat(backupItem[key]);
                         const newPrice = parseFloat(item[key]);
                         if (!isNaN(oldPrice) && !isNaN(newPrice) && newPrice < oldPrice) {
-                            results.push(`${item.name}: (Selling Price) ${backupItem[key]} -> ${item[key]} (decreased)`);
+                            results.push(`- ${item.name}: (Selling Price) ${backupItem[key]} -> ${item[key]} (decreased) :money_with_wings:`);
                             info(`${item.name}: (Selling Price) ${backupItem[key]} -> \x1b[32m${item[key]}\x1b[0m (decreased)`);
                         } else {
-                            results.push(`${item.name}: (Selling Price) ${backupItem[key]} -> ${item[key]} (increased)`);
+                            results.push(`- ${item.name}: (Selling Price) ${backupItem[key]} -> ${item[key]} (increased)`);
                             info(`${item.name}: (Selling Price) ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (increased)`);
                         }
                     }
@@ -96,10 +96,10 @@ export function compare(backupData, sourceData) {
                         const oldQty = parseInt(backupItem[key]);
                         const newQty = parseInt(item[key]);
                         if (!isNaN(oldQty) && !isNaN(newQty) && newQty > oldQty) {
-                            results.push(`${item.name}: (Buying Quantity) ${backupItem[key]} -> ${item[key]} (increased)`);
+                            results.push(`- ${item.name}: (Buying Quantity) ${backupItem[key]} -> ${item[key]} (increased)`);
                             info(`${item.name}: (Buying Quantity) ${backupItem[key]} -> \x1b[32m${item[key]}\x1b[0m (increased)`);
                         } else {
-                            results.push(`${item.name}: (Buying Quantity) ${backupItem[key]} -> ${item[key]} (decreased)`);
+                            results.push(`- ${item.name}: (Buying Quantity) ${backupItem[key]} -> ${item[key]} (decreased)`);
                             info(`${item.name}: (Buying Quantity) ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (decreased)`);
                         }
                     }
@@ -108,11 +108,16 @@ export function compare(backupData, sourceData) {
                         const oldQty = parseInt(backupItem[key]);
                         const newQty = parseInt(item[key]);
                         if (!isNaN(oldQty) && !isNaN(newQty) && newQty > oldQty) {
-                            results.push(`${item.name}: (Selling Quantity) ${backupItem[key]} -> ${item[key]} (increased)`);
+                            results.push(`- ${item.name}: (Selling Quantity) ${backupItem[key]} -> ${item[key]} (increased)`);
                             info(`${item.name}: (Selling Quantity) ${backupItem[key]} -> \x1b[32m${item[key]}\x1b[0m (increased)`);
                         } else {
-                            results.push(`${item.name}: (Selling Quantity) ${backupItem[key]} -> \x1b[31m${item[key]} (decreased)`);
-                            info(`${item.name}: (Selling Quantity) ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (decreased)`);
+                            if (newQty === 0) {
+                                results.push(`- ${item.name}: (Selling Quantity) ${backupItem[key]} -> ${item[key]} (decreased) :money_with_wings:`);
+                                info(`${item.name}: (Selling Quantity) ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (decreased)`);
+                            } else {
+                                results.push(`- ${item.name}: (Selling Quantity) ${backupItem[key]} -> ${item[key]} (decreased)`);
+                                info(`${item.name}: (Selling Quantity) ${backupItem[key]} -> \x1b[31m${item[key]}\x1b[0m (decreased)`);
+                            }
                         }
                     }
 
