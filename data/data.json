@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-09-17T19:44:51.936Z",
-  "count": 128,
+  "timestamp": "2025-09-17T19:59:52.731Z",
+  "count": 129,
   "data": [
     {
       "name": "",
@@ -158,10 +158,10 @@
     },
     {
       "name": "Objet de collection",
-      "buyingPrice": "100",
-      "buyingQuantity": "3",
-      "sellingPrice": "110",
-      "sellingQuantity": "10"
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": "100",
+      "sellingQuantity": "3 (13)"
     },
     {
       "name": "Oeuvre",
@@ -573,8 +573,8 @@
       "name": "Ushatar",
       "buyingPrice": "280",
       "buyingQuantity": "1",
-      "sellingPrice": "300",
-      "sellingQuantity": "5"
+      "sellingPrice": null,
+      "sellingQuantity": "0"
     },
     {
       "name": "Vargkwen",
@@ -729,6 +729,13 @@
       "buyingQuantity": "0",
       "sellingPrice": "600",
       "sellingQuantity": "1"
+    },
+    {
+      "name": "Prisme translucide",
+      "buyingPrice": "600",
+      "buyingQuantity": "1",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
     },
     {
       "name": "Saphir tellurique",
