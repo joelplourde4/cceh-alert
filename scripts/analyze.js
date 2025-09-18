@@ -34,7 +34,7 @@ export async function runAnalysis() {
 
         info("Sending Discord alert...");
         const formattedResults = formatResults(results);
-        sendDiscordAlert("Changes detected: \n" + formattedResults);
+        await sendDiscordAlert("Changes detected: \n" + formattedResults);
 
         info("Uploading the latest data.json to GitHub...");
         const json = JSON.stringify(sourceData, null, 2);
