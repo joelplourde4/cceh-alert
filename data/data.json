@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-18T14:39:24.645Z",
+  "timestamp": "2025-09-19T02:24:23.229Z",
   "count": 129,
   "data": [
     {
@@ -405,8 +405,8 @@
       "name": "Trébuchet",
       "buyingPrice": "320",
       "buyingQuantity": "1",
-      "sellingPrice": "330",
-      "sellingQuantity": "1 (4)"
+      "sellingPrice": "340",
+      "sellingQuantity": "1 (3)"
     },
     {
       "name": "",
