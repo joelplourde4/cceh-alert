@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-19T20:54:23.334Z",
+  "timestamp": "2025-09-19T21:09:24.735Z",
   "count": 129,
   "data": [
     {
@@ -214,8 +214,8 @@
     },
     {
       "name": "Nomade",
-      "buyingPrice": "34",
-      "buyingQuantity": "5",
+      "buyingPrice": "35",
+      "buyingQuantity": "10",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
