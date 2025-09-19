@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-19T02:24:23.229Z",
+  "timestamp": "2025-09-19T15:24:23.334Z",
   "count": 129,
   "data": [
     {
@@ -116,10 +116,10 @@
     },
     {
       "name": "Cargaison",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
-      "sellingPrice": "100",
-      "sellingQuantity": "1 (23)"
+      "buyingPrice": "95",
+      "buyingQuantity": "6",
+      "sellingPrice": "113",
+      "sellingQuantity": "6 (28)"
     },
     {
       "name": "Faveur Divine",
@@ -818,8 +818,8 @@
       "name": "Influence Empire",
       "buyingPrice": "30",
       "buyingQuantity": "7",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "35",
+      "sellingQuantity": "3"
     },
     {
       "name": "Influence Fédération Argannaise",
