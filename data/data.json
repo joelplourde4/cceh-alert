@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-19T21:09:24.735Z",
+  "timestamp": "2025-09-19T21:24:23.333Z",
   "count": 129,
   "data": [
     {
@@ -228,8 +228,8 @@
     },
     {
       "name": "Peaux vertes",
-      "buyingPrice": "33",
-      "buyingQuantity": "10",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
