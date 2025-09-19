@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-19T15:24:23.334Z",
+  "timestamp": "2025-09-19T20:39:24.332Z",
   "count": 129,
   "data": [
     {
@@ -651,7 +651,7 @@
       "buyingPrice": "105",
       "buyingQuantity": null,
       "sellingPrice": "120",
-      "sellingQuantity": "1 (4)"
+      "sellingQuantity": "1 (3)"
     },
     {
       "name": "Manthora",
