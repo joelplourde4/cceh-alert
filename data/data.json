@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-20T21:54:23.629Z",
+  "timestamp": "2025-09-20T22:54:23.038Z",
   "count": 129,
   "data": [
     {
@@ -223,8 +223,8 @@
       "name": "Paysan",
       "buyingPrice": "35",
       "buyingQuantity": null,
-      "sellingPrice": "40",
-      "sellingQuantity": "2"
+      "sellingPrice": null,
+      "sellingQuantity": "0"
     },
     {
       "name": "Peaux vertes",
@@ -678,8 +678,8 @@
       "name": "Souffle de vie",
       "buyingPrice": "90",
       "buyingQuantity": "2",
-      "sellingPrice": "105",
-      "sellingQuantity": "1 (12)"
+      "sellingPrice": "110",
+      "sellingQuantity": "10"
     },
     {
       "name": "Svir-Kala",
