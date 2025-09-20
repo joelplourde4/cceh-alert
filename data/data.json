@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-19T21:39:24.333Z",
+  "timestamp": "2025-09-20T12:54:23.231Z",
   "count": 129,
   "data": [
     {
@@ -195,8 +195,8 @@
       "name": "Esclaves",
       "buyingPrice": "35",
       "buyingQuantity": null,
-      "sellingPrice": "42",
-      "sellingQuantity": "10"
+      "sellingPrice": null,
+      "sellingQuantity": "0"
     },
     {
       "name": "Forestier",
@@ -356,8 +356,8 @@
       "name": "Artilleur",
       "buyingPrice": "300",
       "buyingQuantity": "2",
-      "sellingPrice": "350",
-      "sellingQuantity": "2 (8)"
+      "sellingPrice": "325",
+      "sellingQuantity": "3 (11)"
     },
     {
       "name": "Canon",
