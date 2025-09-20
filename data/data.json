@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-20T12:54:23.231Z",
+  "timestamp": "2025-09-20T13:24:23.029Z",
   "count": 129,
   "data": [
     {
@@ -110,7 +110,7 @@
     {
       "name": "Butin",
       "buyingPrice": "65",
-      "buyingQuantity": "4",
+      "buyingQuantity": "3",
       "sellingPrice": "70",
       "sellingQuantity": "1 (2)"
     },
