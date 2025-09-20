@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-20T13:24:23.029Z",
+  "timestamp": "2025-09-20T13:54:23.130Z",
   "count": 129,
   "data": [
     {
@@ -356,8 +356,8 @@
       "name": "Artilleur",
       "buyingPrice": "300",
       "buyingQuantity": "2",
-      "sellingPrice": "325",
-      "sellingQuantity": "3 (11)"
+      "sellingPrice": "320",
+      "sellingQuantity": "1 (11)"
     },
     {
       "name": "Canon",
