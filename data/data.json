@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-20T21:39:24.731Z",
+  "timestamp": "2025-09-20T21:54:23.629Z",
   "count": 129,
   "data": [
     {
@@ -13,8 +13,8 @@
       "name": "Fiche de population activité",
       "buyingPrice": "100",
       "buyingQuantity": "12",
-      "sellingPrice": "105",
-      "sellingQuantity": "25 (32)"
+      "sellingPrice": "104",
+      "sellingQuantity": "1 (32)"
     },
     {
       "name": "Fiche de population événement spécial",
@@ -223,7 +223,7 @@
       "name": "Paysan",
       "buyingPrice": "35",
       "buyingQuantity": null,
-      "sellingPrice": "45",
+      "sellingPrice": "40",
       "sellingQuantity": "2"
     },
     {
