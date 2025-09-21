@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-21T15:36:45.116Z",
+  "timestamp": "2025-09-21T17:06:44.417Z",
   "count": 129,
   "data": [
     {
@@ -165,8 +165,8 @@
     },
     {
       "name": "Oeuvre",
-      "buyingPrice": "30",
-      "buyingQuantity": "19",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "39",
       "sellingQuantity": "5"
     },
@@ -657,8 +657,8 @@
       "name": "Manthora",
       "buyingPrice": "100",
       "buyingQuantity": null,
-      "sellingPrice": "115",
-      "sellingQuantity": "1 (4)"
+      "sellingPrice": null,
+      "sellingQuantity": "0"
     },
     {
       "name": "Miguisse",
