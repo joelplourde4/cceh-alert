@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-20T22:54:23.038Z",
+  "timestamp": "2025-09-21T15:36:45.116Z",
   "count": 129,
   "data": [
     {
@@ -354,10 +354,10 @@
     },
     {
       "name": "Artilleur",
-      "buyingPrice": "300",
-      "buyingQuantity": "2",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "320",
-      "sellingQuantity": "1 (11)"
+      "sellingQuantity": "1 (8)"
     },
     {
       "name": "Canon",
@@ -426,8 +426,8 @@
       "name": "Brigand",
       "buyingPrice": "220",
       "buyingQuantity": "2",
-      "sellingPrice": "230",
-      "sellingQuantity": "1 (4)"
+      "sellingPrice": "240",
+      "sellingQuantity": "2 (3)"
     },
     {
       "name": "",
@@ -657,8 +657,8 @@
       "name": "Manthora",
       "buyingPrice": "100",
       "buyingQuantity": null,
-      "sellingPrice": "110",
-      "sellingQuantity": "1 (5)"
+      "sellingPrice": "115",
+      "sellingQuantity": "1 (4)"
     },
     {
       "name": "Miguisse",
