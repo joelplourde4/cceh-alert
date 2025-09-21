@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-21T23:06:45.212Z",
+  "timestamp": "2025-09-21T23:21:46.415Z",
   "count": 129,
   "data": [
     {
@@ -111,8 +111,8 @@
       "name": "Butin",
       "buyingPrice": "65",
       "buyingQuantity": "3",
-      "sellingPrice": "70",
-      "sellingQuantity": "1 (2)"
+      "sellingPrice": "75",
+      "sellingQuantity": "1"
     },
     {
       "name": "Cargaison",
@@ -165,8 +165,8 @@
     },
     {
       "name": "Oeuvre",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "30",
+      "buyingQuantity": "20",
       "sellingPrice": "39",
       "sellingQuantity": "5"
     },
@@ -223,8 +223,8 @@
       "name": "Paysan",
       "buyingPrice": "35",
       "buyingQuantity": null,
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "42",
+      "sellingQuantity": "20"
     },
     {
       "name": "Peaux vertes",
@@ -354,10 +354,10 @@
     },
     {
       "name": "Artilleur",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
-      "sellingPrice": "320",
-      "sellingQuantity": "1 (8)"
+      "buyingPrice": "300",
+      "buyingQuantity": "2",
+      "sellingPrice": "350",
+      "sellingQuantity": "1 (7)"
     },
     {
       "name": "Canon",
@@ -657,8 +657,8 @@
       "name": "Manthora",
       "buyingPrice": "100",
       "buyingQuantity": null,
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "125",
+      "sellingQuantity": "1"
     },
     {
       "name": "Miguisse",
