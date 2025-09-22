@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-22T01:21:46.219Z",
+  "timestamp": "2025-09-22T12:36:45.116Z",
   "count": 129,
   "data": [
     {
@@ -63,7 +63,7 @@
       "buyingPrice": "6.50",
       "buyingQuantity": "60",
       "sellingPrice": "7.50",
-      "sellingQuantity": "100 (230)"
+      "sellingQuantity": "100 (330)"
     },
     {
       "name": "Céréales",
@@ -110,7 +110,7 @@
     {
       "name": "Butin",
       "buyingPrice": "65",
-      "buyingQuantity": "3",
+      "buyingQuantity": "13",
       "sellingPrice": "75",
       "sellingQuantity": "1"
     },
@@ -223,8 +223,8 @@
       "name": "Paysan",
       "buyingPrice": "35",
       "buyingQuantity": null,
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "43",
+      "sellingQuantity": "10"
     },
     {
       "name": "Peaux vertes",
@@ -895,8 +895,8 @@
       "name": "Minerai d'or",
       "buyingPrice": "25",
       "buyingQuantity": "17",
-      "sellingPrice": "26",
-      "sellingQuantity": "25"
+      "sellingPrice": null,
+      "sellingQuantity": "0"
     },
     {
       "name": "Pierres précieuses",
