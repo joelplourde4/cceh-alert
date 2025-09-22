@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-22T15:36:45.314Z",
+  "timestamp": "2025-09-22T18:51:46.517Z",
   "count": 129,
   "data": [
     {
@@ -181,7 +181,7 @@
       "name": "Sépium",
       "buyingPrice": "33",
       "buyingQuantity": "20",
-      "sellingPrice": "44",
+      "sellingPrice": "42",
       "sellingQuantity": "27"
     },
     {
@@ -193,7 +193,7 @@
     },
     {
       "name": "Esclaves",
-      "buyingPrice": "35",
+      "buyingPrice": "37",
       "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
@@ -284,8 +284,8 @@
     },
     {
       "name": "Intendant",
-      "buyingPrice": "75",
-      "buyingQuantity": "9",
+      "buyingPrice": "80",
+      "buyingQuantity": null,
       "sellingPrice": "90",
       "sellingQuantity": "1 (7)"
     },
