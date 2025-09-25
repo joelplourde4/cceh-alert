@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-24T15:20:19.538Z",
+  "timestamp": "2025-09-25T00:35:20.538Z",
   "count": 129,
   "data": [
     {
@@ -271,7 +271,7 @@
     {
       "name": "Forgeron",
       "buyingPrice": "70",
-      "buyingQuantity": "5",
+      "buyingQuantity": "4",
       "sellingPrice": "85",
       "sellingQuantity": "2 (11)"
     },
@@ -280,7 +280,7 @@
       "buyingPrice": "60",
       "buyingQuantity": "5",
       "sellingPrice": "75",
-      "sellingQuantity": "3 (16)"
+      "sellingQuantity": "2 (15)"
     },
     {
       "name": "Intendant",
