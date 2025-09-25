@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-25T13:48:03.682Z",
+  "timestamp": "2025-09-25T14:18:03.783Z",
   "count": 129,
   "data": [
     {
@@ -636,8 +636,8 @@
       "name": "Golhir",
       "buyingPrice": "90",
       "buyingQuantity": "1",
-      "sellingPrice": "100",
-      "sellingQuantity": "1 (3)"
+      "sellingPrice": "105",
+      "sellingQuantity": "1 (2)"
     },
     {
       "name": "Ingrédient",
