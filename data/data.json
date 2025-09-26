@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-26T12:33:05.085Z",
+  "timestamp": "2025-09-26T13:03:05.083Z",
   "count": 129,
   "data": [
     {
@@ -405,8 +405,8 @@
       "name": "Trébuchet",
       "buyingPrice": "300",
       "buyingQuantity": "3",
-      "sellingPrice": "330",
-      "sellingQuantity": "17 (20)"
+      "sellingPrice": "340",
+      "sellingQuantity": "1 (20)"
     },
     {
       "name": "",
@@ -578,8 +578,8 @@
     },
     {
       "name": "Vargkwen",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "575",
+      "buyingQuantity": "4",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
