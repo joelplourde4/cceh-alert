@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-29T16:03:07.589Z",
+  "timestamp": "2025-09-29T17:18:05.982Z",
   "count": 129,
   "data": [
     {
@@ -578,8 +578,8 @@
     },
     {
       "name": "Vargkwen",
-      "buyingPrice": "575",
-      "buyingQuantity": "4",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
