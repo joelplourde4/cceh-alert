@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-30T22:33:06.784Z",
+  "timestamp": "2025-09-30T22:48:06.384Z",
   "count": 129,
   "data": [
     {
@@ -102,8 +102,8 @@
     },
     {
       "name": "Bateau de pêche",
-      "buyingPrice": "110",
-      "buyingQuantity": null,
+      "buyingPrice": "95",
+      "buyingQuantity": "5",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -322,7 +322,7 @@
       "buyingPrice": "60",
       "buyingQuantity": "5",
       "sellingPrice": "75",
-      "sellingQuantity": "8 (10)"
+      "sellingQuantity": "8 (9)"
     },
     {
       "name": "Mentor Militaire",
