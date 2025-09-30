@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-30T14:18:05.984Z",
+  "timestamp": "2025-09-30T14:33:06.985Z",
   "count": 129,
   "data": [
     {
@@ -482,8 +482,8 @@
       "name": "Pirate",
       "buyingPrice": "220",
       "buyingQuantity": "3",
-      "sellingPrice": "250",
-      "sellingQuantity": "5"
+      "sellingPrice": null,
+      "sellingQuantity": "0"
     },
     {
       "name": "Voile de guerre",
