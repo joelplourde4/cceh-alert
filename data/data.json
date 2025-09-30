@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-30T01:33:07.081Z",
+  "timestamp": "2025-09-30T13:03:07.581Z",
   "count": 129,
   "data": [
     {
@@ -643,22 +643,22 @@
       "name": "Ingrédient",
       "buyingPrice": "90",
       "buyingQuantity": "2",
-      "sellingPrice": "100",
-      "sellingQuantity": "1 (19)"
+      "sellingPrice": "95",
+      "sellingQuantity": "5 (24)"
     },
     {
       "name": "Invention",
       "buyingPrice": "105",
       "buyingQuantity": null,
-      "sellingPrice": "120",
-      "sellingQuantity": "1 (3)"
+      "sellingPrice": "115",
+      "sellingQuantity": "1 (4)"
     },
     {
       "name": "Manthora",
       "buyingPrice": "100",
       "buyingQuantity": null,
-      "sellingPrice": "115",
-      "sellingQuantity": "2 (5)"
+      "sellingPrice": "110",
+      "sellingQuantity": "2 (7)"
     },
     {
       "name": "Miguisse",
@@ -678,15 +678,15 @@
       "name": "Souffle de vie",
       "buyingPrice": "90",
       "buyingQuantity": "2",
-      "sellingPrice": "110",
-      "sellingQuantity": "10 (11)"
+      "sellingPrice": "105",
+      "sellingQuantity": "3 (14)"
     },
     {
       "name": "Svir-Kala",
       "buyingPrice": "100",
       "buyingQuantity": null,
-      "sellingPrice": "110",
-      "sellingQuantity": "1 (9)"
+      "sellingPrice": "105",
+      "sellingQuantity": "4 (13)"
     },
     {
       "name": "",
