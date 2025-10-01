@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-01T13:48:05.384Z",
+  "timestamp": "2025-10-01T15:18:05.684Z",
   "count": 129,
   "data": [
     {
@@ -403,8 +403,8 @@
     },
     {
       "name": "Trébuchet",
-      "buyingPrice": "300",
-      "buyingQuantity": "3",
+      "buyingPrice": "310",
+      "buyingQuantity": "1",
       "sellingPrice": "340",
       "sellingQuantity": "1 (20)"
     },
@@ -571,7 +571,7 @@
     },
     {
       "name": "Ushatar",
-      "buyingPrice": "280",
+      "buyingPrice": "300",
       "buyingQuantity": "1",
       "sellingPrice": null,
       "sellingQuantity": "0"
@@ -683,8 +683,8 @@
     },
     {
       "name": "Svir-Kala",
-      "buyingPrice": "100",
-      "buyingQuantity": null,
+      "buyingPrice": "90",
+      "buyingQuantity": "2",
       "sellingPrice": "105",
       "sellingQuantity": "4 (13)"
     },
