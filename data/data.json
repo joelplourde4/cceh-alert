@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-30T22:48:06.384Z",
+  "timestamp": "2025-10-01T01:48:05.583Z",
   "count": 129,
   "data": [
     {
@@ -55,8 +55,8 @@
       "name": "Armement",
       "buyingPrice": "7.25",
       "buyingQuantity": "80",
-      "sellingPrice": "8.50",
-      "sellingQuantity": "40 (80)"
+      "sellingPrice": "9",
+      "sellingQuantity": "10 (30)"
     },
     {
       "name": "Bétail",
