@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-02T23:03:06.387Z",
+  "timestamp": "2025-10-02T23:33:06.580Z",
   "count": 129,
   "data": [
     {
@@ -200,8 +200,8 @@
     },
     {
       "name": "Forestier",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "37",
+      "buyingQuantity": "5",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -221,15 +221,15 @@
     },
     {
       "name": "Paysan",
-      "buyingPrice": "35",
+      "buyingPrice": "37",
       "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
     {
       "name": "Peaux vertes",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "37",
+      "buyingQuantity": "5",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -679,14 +679,14 @@
       "buyingPrice": "90",
       "buyingQuantity": "2",
       "sellingPrice": "105",
-      "sellingQuantity": "4 (15)"
+      "sellingQuantity": "4 (14)"
     },
     {
       "name": "Svir-Kala",
       "buyingPrice": "90",
       "buyingQuantity": "2",
       "sellingPrice": "105",
-      "sellingQuantity": "4 (13)"
+      "sellingQuantity": "4 (12)"
     },
     {
       "name": "",
