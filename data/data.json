@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-02T01:18:05.689Z",
+  "timestamp": "2025-10-02T23:03:06.387Z",
   "count": 129,
   "data": [
     {
@@ -159,7 +159,7 @@
     {
       "name": "Objet de collection",
       "buyingPrice": "100",
-      "buyingQuantity": "10",
+      "buyingQuantity": "2",
       "sellingPrice": "115",
       "sellingQuantity": "20"
     },
@@ -377,15 +377,15 @@
       "name": "Chevalier",
       "buyingPrice": "500",
       "buyingQuantity": "1",
-      "sellingPrice": "575",
-      "sellingQuantity": "1 (7)"
+      "sellingPrice": "615",
+      "sellingQuantity": "1 (6)"
     },
     {
       "name": "Mercenaire",
       "buyingPrice": "160",
       "buyingQuantity": "2",
       "sellingPrice": "175",
-      "sellingQuantity": "2 (6)"
+      "sellingQuantity": "1 (5)"
     },
     {
       "name": "Milice",
