@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-02T01:03:06.581Z",
+  "timestamp": "2025-10-02T01:18:05.689Z",
   "count": 129,
   "data": [
     {
@@ -280,7 +280,7 @@
       "buyingPrice": "60",
       "buyingQuantity": "5",
       "sellingPrice": "90",
-      "sellingQuantity": "13"
+      "sellingQuantity": "12"
     },
     {
       "name": "Intendant",
