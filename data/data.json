@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-02T00:48:05.587Z",
+  "timestamp": "2025-10-02T01:03:06.581Z",
   "count": 129,
   "data": [
     {
@@ -301,7 +301,7 @@
       "buyingPrice": "70",
       "buyingQuantity": "5",
       "sellingPrice": "80",
-      "sellingQuantity": "16 (36)"
+      "sellingQuantity": "15 (35)"
     },
     {
       "name": "Mécène",
