@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-03T01:18:05.984Z",
+  "timestamp": "2025-10-03T13:03:06.590Z",
   "count": 129,
   "data": [
     {
@@ -159,7 +159,7 @@
     {
       "name": "Objet de collection",
       "buyingPrice": "100",
-      "buyingQuantity": "2",
+      "buyingQuantity": "10",
       "sellingPrice": "115",
       "sellingQuantity": "20"
     },
