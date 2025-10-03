@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-03T13:03:06.590Z",
+  "timestamp": "2025-10-03T16:03:06.779Z",
   "count": 129,
   "data": [
     {
@@ -209,8 +209,8 @@
       "name": "Marin",
       "buyingPrice": "35",
       "buyingQuantity": "10",
-      "sellingPrice": "45",
-      "sellingQuantity": "3"
+      "sellingPrice": null,
+      "sellingQuantity": "0"
     },
     {
       "name": "Nomade",
@@ -265,8 +265,8 @@
       "name": "Croyant",
       "buyingPrice": "150",
       "buyingQuantity": "2",
-      "sellingPrice": "180",
-      "sellingQuantity": "3 (7)"
+      "sellingPrice": "200",
+      "sellingQuantity": "4"
     },
     {
       "name": "Forgeron",
@@ -405,8 +405,8 @@
       "name": "Trébuchet",
       "buyingPrice": "310",
       "buyingQuantity": "1",
-      "sellingPrice": "340",
-      "sellingQuantity": "1 (20)"
+      "sellingPrice": "335",
+      "sellingQuantity": "17 (20)"
     },
     {
       "name": "",
