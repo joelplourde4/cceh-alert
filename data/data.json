@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-03T16:48:05.780Z",
+  "timestamp": "2025-10-03T18:48:05.981Z",
   "count": 129,
   "data": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Fiche de population activité",
       "buyingPrice": "100",
-      "buyingQuantity": "12",
+      "buyingQuantity": "10",
       "sellingPrice": "103",
       "sellingQuantity": "10 (32)"
     },
@@ -20,8 +20,8 @@
       "name": "Fiche de population événement spécial",
       "buyingPrice": "180",
       "buyingQuantity": "40",
-      "sellingPrice": "209",
-      "sellingQuantity": "1 (8)"
+      "sellingPrice": "200",
+      "sellingQuantity": "1 (9)"
     },
     {
       "name": "Fiche de population grande bataille",
@@ -123,8 +123,8 @@
     },
     {
       "name": "Faveur Divine",
-      "buyingPrice": "8",
-      "buyingQuantity": "100",
+      "buyingPrice": "10",
+      "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
