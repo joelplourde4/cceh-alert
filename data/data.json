@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-03T16:33:06.386Z",
+  "timestamp": "2025-10-03T16:48:05.780Z",
   "count": 129,
   "data": [
     {
@@ -21,7 +21,7 @@
       "buyingPrice": "180",
       "buyingQuantity": "40",
       "sellingPrice": "209",
-      "sellingQuantity": "1 (9)"
+      "sellingQuantity": "1 (8)"
     },
     {
       "name": "Fiche de population grande bataille",
@@ -84,7 +84,7 @@
       "buyingPrice": "7.50",
       "buyingQuantity": "100",
       "sellingPrice": "8",
-      "sellingQuantity": "31 (81)"
+      "sellingQuantity": "31 (101)"
     },
     {
       "name": "Victuailles",
@@ -679,7 +679,7 @@
       "buyingPrice": "90",
       "buyingQuantity": "2",
       "sellingPrice": "105",
-      "sellingQuantity": "4 (14)"
+      "sellingQuantity": "3 (14)"
     },
     {
       "name": "Svir-Kala",
