@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-06T21:03:06.690Z",
+  "timestamp": "2025-10-07T14:18:06.081Z",
   "count": 129,
   "data": [
     {
@@ -112,7 +112,7 @@
       "buyingPrice": "65",
       "buyingQuantity": "10",
       "sellingPrice": "75",
-      "sellingQuantity": "8"
+      "sellingQuantity": "1"
     },
     {
       "name": "Cargaison",
@@ -160,8 +160,8 @@
       "name": "Objet de collection",
       "buyingPrice": "100",
       "buyingQuantity": "10",
-      "sellingPrice": "115",
-      "sellingQuantity": "20"
+      "sellingPrice": null,
+      "sellingQuantity": "0"
     },
     {
       "name": "Oeuvre",
@@ -251,7 +251,7 @@
       "name": "Admirateur",
       "buyingPrice": "70",
       "buyingQuantity": "5",
-      "sellingPrice": "85",
+      "sellingPrice": "80",
       "sellingQuantity": "5 (7)"
     },
     {
@@ -455,7 +455,7 @@
       "buyingPrice": "225",
       "buyingQuantity": "2",
       "sellingPrice": "250",
-      "sellingQuantity": "1 (4)"
+      "sellingQuantity": "1 (2)"
     },
     {
       "name": "",
