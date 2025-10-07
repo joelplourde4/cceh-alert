@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-07T15:03:06.579Z",
+  "timestamp": "2025-10-07T19:48:05.986Z",
   "count": 129,
   "data": [
     {
@@ -251,8 +251,8 @@
       "name": "Admirateur",
       "buyingPrice": "70",
       "buyingQuantity": "5",
-      "sellingPrice": "80",
-      "sellingQuantity": "5 (7)"
+      "sellingPrice": "95",
+      "sellingQuantity": "1 (2)"
     },
     {
       "name": "Charpentier",
