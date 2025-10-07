@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-07T14:33:06.885Z",
+  "timestamp": "2025-10-07T15:03:06.579Z",
   "count": 129,
   "data": [
     {
@@ -118,8 +118,8 @@
       "name": "Cargaison",
       "buyingPrice": "95",
       "buyingQuantity": "6",
-      "sellingPrice": "110",
-      "sellingQuantity": "12 (28)"
+      "sellingPrice": "105",
+      "sellingQuantity": "10 (28)"
     },
     {
       "name": "Faveur Divine",
@@ -384,8 +384,8 @@
       "name": "Mercenaire",
       "buyingPrice": "160",
       "buyingQuantity": "2",
-      "sellingPrice": "175",
-      "sellingQuantity": "1 (5)"
+      "sellingPrice": "170",
+      "sellingQuantity": "1 (6)"
     },
     {
       "name": "Milice",
@@ -636,8 +636,8 @@
       "name": "Golhir",
       "buyingPrice": "90",
       "buyingQuantity": "1",
-      "sellingPrice": "105",
-      "sellingQuantity": "1 (2)"
+      "sellingPrice": "100",
+      "sellingQuantity": "2 (4)"
     },
     {
       "name": "Ingrédient",
@@ -664,8 +664,8 @@
       "name": "Miguisse",
       "buyingPrice": "100",
       "buyingQuantity": "1",
-      "sellingPrice": "110",
-      "sellingQuantity": "1 (4)"
+      "sellingPrice": "105",
+      "sellingQuantity": "2 (5)"
     },
     {
       "name": "Points de pouvoir",
@@ -903,7 +903,7 @@
       "buyingPrice": "15",
       "buyingQuantity": "26",
       "sellingPrice": "16",
-      "sellingQuantity": "211"
+      "sellingQuantity": "195"
     }
   ]
 }
