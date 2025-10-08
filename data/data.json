@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-08T19:48:06.179Z",
+  "timestamp": "2025-10-08T22:18:06.782Z",
   "count": 129,
   "data": [
     {
@@ -384,8 +384,8 @@
       "name": "Mercenaire",
       "buyingPrice": "160",
       "buyingQuantity": "2",
-      "sellingPrice": "220",
-      "sellingQuantity": "3"
+      "sellingPrice": "185",
+      "sellingQuantity": "2 (7)"
     },
     {
       "name": "Milice",
@@ -448,7 +448,7 @@
       "buyingPrice": "220",
       "buyingQuantity": "2",
       "sellingPrice": "250",
-      "sellingQuantity": "1 (4)"
+      "sellingQuantity": "1 (2)"
     },
     {
       "name": "Tirailleurs",
@@ -613,10 +613,10 @@
     },
     {
       "name": "Crâne",
-      "buyingPrice": "100",
-      "buyingQuantity": "1",
-      "sellingPrice": "105",
-      "sellingQuantity": "2 (10)"
+      "buyingPrice": "90",
+      "buyingQuantity": "2",
+      "sellingPrice": "100",
+      "sellingQuantity": "9 (19)"
     },
     {
       "name": "Énergie pure",
@@ -662,10 +662,10 @@
     },
     {
       "name": "Miguisse",
-      "buyingPrice": "100",
-      "buyingQuantity": "1",
-      "sellingPrice": "105",
-      "sellingQuantity": "2 (5)"
+      "buyingPrice": "90",
+      "buyingQuantity": "2",
+      "sellingPrice": "100",
+      "sellingQuantity": "7 (12)"
     },
     {
       "name": "Points de pouvoir",
