@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-08T00:33:06.782Z",
+  "timestamp": "2025-10-08T19:33:06.579Z",
   "count": 129,
   "data": [
     {
@@ -143,13 +143,6 @@
       "sellingQuantity": "0"
     },
     {
-      "name": "Lettre de change 1000 Nouveau Monde",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
-      "sellingPrice": "1300",
-      "sellingQuantity": "1"
-    },
-    {
       "name": "Lettre de change 3000 Nouveau Monde",
       "buyingPrice": null,
       "buyingQuantity": "0",
@@ -214,8 +207,8 @@
     },
     {
       "name": "Nomade",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "37",
+      "buyingQuantity": "5",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -253,6 +246,13 @@
       "buyingQuantity": "5",
       "sellingPrice": "95",
       "sellingQuantity": "1 (2)"
+    },
+    {
+      "name": "Artiste",
+      "buyingPrice": "200",
+      "buyingQuantity": "2",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
     },
     {
       "name": "Charpentier",
@@ -384,8 +384,8 @@
       "name": "Mercenaire",
       "buyingPrice": "160",
       "buyingQuantity": "2",
-      "sellingPrice": "170",
-      "sellingQuantity": "1 (6)"
+      "sellingPrice": "220",
+      "sellingQuantity": "3"
     },
     {
       "name": "Milice",
