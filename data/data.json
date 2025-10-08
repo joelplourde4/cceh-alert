@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-07T23:33:06.783Z",
+  "timestamp": "2025-10-08T00:33:06.782Z",
   "count": 129,
   "data": [
     {
@@ -294,7 +294,7 @@
       "buyingPrice": "60",
       "buyingQuantity": "5",
       "sellingPrice": "75",
-      "sellingQuantity": "5 (12)"
+      "sellingQuantity": "3 (10)"
     },
     {
       "name": "Maçon",
