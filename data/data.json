@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-08T22:33:06.590Z",
+  "timestamp": "2025-10-08T22:48:05.783Z",
   "count": 129,
   "data": [
     {
@@ -63,7 +63,7 @@
       "buyingPrice": "6.50",
       "buyingQuantity": "60",
       "sellingPrice": "7.50",
-      "sellingQuantity": "100 (330)"
+      "sellingQuantity": "100 (230)"
     },
     {
       "name": "Céréales",
@@ -119,7 +119,7 @@
       "buyingPrice": "95",
       "buyingQuantity": "6",
       "sellingPrice": "105",
-      "sellingQuantity": "10 (28)"
+      "sellingQuantity": "10 (22)"
     },
     {
       "name": "Faveur Divine",
@@ -187,7 +187,7 @@
     {
       "name": "Esclaves",
       "buyingPrice": "37",
-      "buyingQuantity": null,
+      "buyingQuantity": "15",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -215,7 +215,7 @@
     {
       "name": "Paysan",
       "buyingPrice": "37",
-      "buyingQuantity": null,
+      "buyingQuantity": "10",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -315,7 +315,7 @@
       "buyingPrice": "50",
       "buyingQuantity": "5",
       "sellingPrice": "65",
-      "sellingQuantity": "10"
+      "sellingQuantity": "5"
     },
     {
       "name": "Mentor Maritime",
@@ -329,7 +329,7 @@
       "buyingPrice": "60",
       "buyingQuantity": "5",
       "sellingPrice": "75",
-      "sellingQuantity": "19 (22)"
+      "sellingQuantity": "5 (8)"
     },
     {
       "name": "Scribe",
@@ -347,8 +347,8 @@
     },
     {
       "name": "Archer",
-      "buyingPrice": "240",
-      "buyingQuantity": "1",
+      "buyingPrice": "260",
+      "buyingQuantity": "2",
       "sellingPrice": "300",
       "sellingQuantity": "6"
     },
@@ -406,7 +406,7 @@
       "buyingPrice": "310",
       "buyingQuantity": "1",
       "sellingPrice": "335",
-      "sellingQuantity": "14 (17)"
+      "sellingQuantity": "14 (15)"
     },
     {
       "name": "",
@@ -620,10 +620,10 @@
     },
     {
       "name": "Énergie pure",
-      "buyingPrice": "800",
+      "buyingPrice": "900",
       "buyingQuantity": "1",
-      "sellingPrice": "900",
-      "sellingQuantity": "1 (2)"
+      "sellingPrice": null,
+      "sellingQuantity": "0"
     },
     {
       "name": "Esprit de la forêt",
