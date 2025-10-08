@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-08T22:18:06.782Z",
+  "timestamp": "2025-10-08T22:33:06.590Z",
   "count": 129,
   "data": [
     {
@@ -364,7 +364,7 @@
       "buyingPrice": "1050",
       "buyingQuantity": "1",
       "sellingPrice": "1150",
-      "sellingQuantity": "1 (4)"
+      "sellingQuantity": "1 (2)"
     },
     {
       "name": "Cavalier",
@@ -406,7 +406,7 @@
       "buyingPrice": "310",
       "buyingQuantity": "1",
       "sellingPrice": "335",
-      "sellingQuantity": "17 (20)"
+      "sellingQuantity": "14 (17)"
     },
     {
       "name": "",
@@ -447,8 +447,8 @@
       "name": "Hommes-rats",
       "buyingPrice": "220",
       "buyingQuantity": "2",
-      "sellingPrice": "250",
-      "sellingQuantity": "1 (2)"
+      "sellingPrice": "240",
+      "sellingQuantity": "2 (4)"
     },
     {
       "name": "Tirailleurs",
@@ -649,14 +649,14 @@
     {
       "name": "Invention",
       "buyingPrice": "105",
-      "buyingQuantity": null,
+      "buyingQuantity": "1",
       "sellingPrice": "115",
       "sellingQuantity": "1 (4)"
     },
     {
       "name": "Manthora",
       "buyingPrice": "100",
-      "buyingQuantity": null,
+      "buyingQuantity": "2",
       "sellingPrice": "110",
       "sellingQuantity": "2 (7)"
     },
