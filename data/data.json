@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-08T19:33:06.579Z",
+  "timestamp": "2025-10-08T19:48:06.179Z",
   "count": 129,
   "data": [
     {
@@ -53,8 +53,8 @@
     },
     {
       "name": "Armement",
-      "buyingPrice": "7.25",
-      "buyingQuantity": "80",
+      "buyingPrice": "7.50",
+      "buyingQuantity": null,
       "sellingPrice": "9",
       "sellingQuantity": "10 (30)"
     },
@@ -228,8 +228,8 @@
     },
     {
       "name": "Voelhoorn",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "35",
+      "buyingQuantity": "10",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -305,8 +305,8 @@
     },
     {
       "name": "Mécène",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "67",
+      "buyingQuantity": "1",
       "sellingPrice": "490",
       "sellingQuantity": "1"
     },
