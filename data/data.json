@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-09T20:48:05.887Z",
+  "timestamp": "2025-10-09T21:03:06.787Z",
   "count": 129,
   "data": [
     {
@@ -61,9 +61,9 @@
     {
       "name": "Bétail",
       "buyingPrice": "6.50",
-      "buyingQuantity": "60",
+      "buyingQuantity": "10",
       "sellingPrice": "7.50",
-      "sellingQuantity": "100 (230)"
+      "sellingQuantity": "94 (224)"
     },
     {
       "name": "Céréales",
@@ -214,15 +214,15 @@
     },
     {
       "name": "Paysan",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "36",
+      "buyingQuantity": "10",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
     {
       "name": "Peaux vertes",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "36",
+      "buyingQuantity": "5",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
