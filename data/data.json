@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-09T21:03:06.787Z",
+  "timestamp": "2025-10-09T22:33:06.880Z",
   "count": 129,
   "data": [
     {
@@ -83,8 +83,8 @@
       "name": "Ressources",
       "buyingPrice": "7.50",
       "buyingQuantity": "100",
-      "sellingPrice": "8",
-      "sellingQuantity": "31 (101)"
+      "sellingPrice": "8.50",
+      "sellingQuantity": "50 (70)"
     },
     {
       "name": "Victuailles",
