@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-09T20:33:06.784Z",
+  "timestamp": "2025-10-09T20:48:05.887Z",
   "count": 129,
   "data": [
     {
@@ -207,8 +207,8 @@
     },
     {
       "name": "Nomade",
-      "buyingPrice": "37",
-      "buyingQuantity": "5",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -259,21 +259,21 @@
       "buyingPrice": "65",
       "buyingQuantity": "10",
       "sellingPrice": "75",
-      "sellingQuantity": "13 (26)"
+      "sellingQuantity": "11 (24)"
     },
     {
       "name": "Croyant",
       "buyingPrice": "150",
       "buyingQuantity": "2",
       "sellingPrice": "200",
-      "sellingQuantity": "4"
+      "sellingQuantity": "3"
     },
     {
       "name": "Forgeron",
       "buyingPrice": "70",
       "buyingQuantity": "4",
-      "sellingPrice": "85",
-      "sellingQuantity": "2 (11)"
+      "sellingPrice": "90",
+      "sellingQuantity": "9"
     },
     {
       "name": "Ingénieur",
