@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-09T00:33:06.681Z",
+  "timestamp": "2025-10-09T15:03:06.985Z",
   "count": 129,
   "data": [
     {
@@ -186,8 +186,8 @@
     },
     {
       "name": "Esclaves",
-      "buyingPrice": "35",
-      "buyingQuantity": "20",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -214,15 +214,15 @@
     },
     {
       "name": "Paysan",
-      "buyingPrice": "37",
-      "buyingQuantity": "5",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
     {
       "name": "Peaux vertes",
-      "buyingPrice": "37",
-      "buyingQuantity": "5",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
