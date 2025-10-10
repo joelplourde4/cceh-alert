@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-10T02:33:06.885Z",
+  "timestamp": "2025-10-10T12:48:05.981Z",
   "count": 129,
   "data": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "name": "Fiche de population activité",
-      "buyingPrice": "100",
-      "buyingQuantity": "10",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "103",
       "sellingQuantity": "10 (32)"
     },
@@ -195,8 +195,8 @@
       "name": "Forestier",
       "buyingPrice": null,
       "buyingQuantity": "0",
-      "sellingPrice": "40",
-      "sellingQuantity": "25"
+      "sellingPrice": null,
+      "sellingQuantity": "0"
     },
     {
       "name": "Marin",
