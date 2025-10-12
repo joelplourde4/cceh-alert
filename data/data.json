@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-12T22:03:06.885Z",
+  "timestamp": "2025-10-12T22:18:06.180Z",
   "count": 129,
   "data": [
     {
@@ -783,8 +783,8 @@
       "name": "Influence Andore",
       "buyingPrice": "25",
       "buyingQuantity": "10",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "28",
+      "sellingQuantity": "10"
     },
     {
       "name": "Influence Berkwald",
@@ -895,15 +895,15 @@
       "name": "Minerai d'or",
       "buyingPrice": "25",
       "buyingQuantity": "17",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "27",
+      "sellingQuantity": "60"
     },
     {
       "name": "Pierres précieuses",
       "buyingPrice": "15",
       "buyingQuantity": "26",
       "sellingPrice": "16",
-      "sellingQuantity": "195"
+      "sellingQuantity": "365"
     }
   ]
 }
