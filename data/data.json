@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-13T12:03:06.985Z",
+  "timestamp": "2025-10-13T13:03:06.984Z",
   "count": 129,
   "data": [
     {
@@ -259,7 +259,7 @@
       "buyingPrice": "65",
       "buyingQuantity": "10",
       "sellingPrice": "75",
-      "sellingQuantity": "10 (18)"
+      "sellingQuantity": "10 (23)"
     },
     {
       "name": "Croyant",
@@ -468,8 +468,8 @@
       "name": "Combattant embarqué",
       "buyingPrice": "300",
       "buyingQuantity": "1",
-      "sellingPrice": "370",
-      "sellingQuantity": "3"
+      "sellingPrice": "360",
+      "sellingQuantity": "2 (5)"
     },
     {
       "name": "Flobart",
@@ -651,7 +651,7 @@
       "buyingPrice": "105",
       "buyingQuantity": "1",
       "sellingPrice": "115",
-      "sellingQuantity": "1 (4)"
+      "sellingQuantity": "1 (9)"
     },
     {
       "name": "Manthora",
