@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-13T18:33:07.184Z",
+  "timestamp": "2025-10-13T23:18:06.180Z",
   "count": 129,
   "data": [
     {
@@ -326,8 +326,8 @@
     },
     {
       "name": "Mentor Militaire",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "60",
+      "buyingQuantity": "5",
       "sellingPrice": "75",
       "sellingQuantity": "5 (8)"
     },
