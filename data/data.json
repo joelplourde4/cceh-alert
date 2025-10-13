@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-13T10:48:06.284Z",
+  "timestamp": "2025-10-13T11:33:06.880Z",
   "count": 129,
   "data": [
     {
@@ -112,7 +112,7 @@
       "buyingPrice": "65",
       "buyingQuantity": "10",
       "sellingPrice": "75",
-      "sellingQuantity": "1"
+      "sellingQuantity": "1 (6)"
     },
     {
       "name": "Cargaison",
