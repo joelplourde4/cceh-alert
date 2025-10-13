@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-13T13:33:06.881Z",
+  "timestamp": "2025-10-13T18:33:07.184Z",
   "count": 129,
   "data": [
     {
@@ -706,14 +706,14 @@
       "name": "Crâne d'un minotaure",
       "buyingPrice": null,
       "buyingQuantity": "0",
-      "sellingPrice": "425",
+      "sellingPrice": "419",
       "sellingQuantity": "1"
     },
     {
       "name": "Écaille d'un reptile centennaire",
       "buyingPrice": null,
       "buyingQuantity": "0",
-      "sellingPrice": "460",
+      "sellingPrice": "459",
       "sellingQuantity": "1"
     },
     {
@@ -727,7 +727,7 @@
       "name": "Os de dragon noir",
       "buyingPrice": null,
       "buyingQuantity": "0",
-      "sellingPrice": "600",
+      "sellingPrice": "599",
       "sellingQuantity": "1"
     },
     {
@@ -741,7 +741,7 @@
       "name": "Saphir tellurique",
       "buyingPrice": null,
       "buyingQuantity": "0",
-      "sellingPrice": "525",
+      "sellingPrice": "524",
       "sellingQuantity": "1"
     },
     {
