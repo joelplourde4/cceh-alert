@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-13T13:03:06.984Z",
+  "timestamp": "2025-10-13T13:18:06.184Z",
   "count": 129,
   "data": [
     {
@@ -294,21 +294,21 @@
       "buyingPrice": "60",
       "buyingQuantity": "5",
       "sellingPrice": "75",
-      "sellingQuantity": "3 (10)"
+      "sellingQuantity": "3 (15)"
     },
     {
       "name": "Maçon",
       "buyingPrice": null,
       "buyingQuantity": "0",
       "sellingPrice": "80",
-      "sellingQuantity": "15 (35)"
+      "sellingQuantity": "2"
     },
     {
       "name": "Mécène",
       "buyingPrice": "67",
       "buyingQuantity": "1",
-      "sellingPrice": "490",
-      "sellingQuantity": "1"
+      "sellingPrice": "460",
+      "sellingQuantity": "3 (4)"
     },
     {
       "name": "Mentor d'aventurier",
@@ -336,7 +336,7 @@
       "buyingPrice": "75",
       "buyingQuantity": "5",
       "sellingPrice": "85",
-      "sellingQuantity": "5 (17)"
+      "sellingQuantity": "5"
     },
     {
       "name": "",
@@ -385,7 +385,7 @@
       "buyingPrice": "160",
       "buyingQuantity": "2",
       "sellingPrice": "185",
-      "sellingQuantity": "2 (7)"
+      "sellingQuantity": "2 (8)"
     },
     {
       "name": "Milice",
@@ -406,7 +406,7 @@
       "buyingPrice": "310",
       "buyingQuantity": "1",
       "sellingPrice": "340",
-      "sellingQuantity": "1 (15)"
+      "sellingQuantity": "1 (16)"
     },
     {
       "name": "",
@@ -455,7 +455,7 @@
       "buyingPrice": "225",
       "buyingQuantity": "2",
       "sellingPrice": "250",
-      "sellingQuantity": "1 (2)"
+      "sellingQuantity": "1 (7)"
     },
     {
       "name": "",
@@ -538,8 +538,8 @@
       "name": "Milice elfique",
       "buyingPrice": "260",
       "buyingQuantity": "1",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "330",
+      "sellingQuantity": "5"
     },
     {
       "name": "Roquen",
