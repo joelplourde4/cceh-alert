@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-13T13:18:06.184Z",
+  "timestamp": "2025-10-13T13:33:06.881Z",
   "count": 129,
   "data": [
     {
@@ -61,7 +61,7 @@
     {
       "name": "Bétail",
       "buyingPrice": "6.50",
-      "buyingQuantity": "10",
+      "buyingQuantity": "20",
       "sellingPrice": "7.50",
       "sellingQuantity": "94 (324)"
     },
@@ -301,7 +301,7 @@
       "buyingPrice": null,
       "buyingQuantity": "0",
       "sellingPrice": "80",
-      "sellingQuantity": "2"
+      "sellingQuantity": "10"
     },
     {
       "name": "Mécène",
@@ -490,7 +490,7 @@
       "buyingPrice": "480",
       "buyingQuantity": "1",
       "sellingPrice": "520",
-      "sellingQuantity": "2 (4)"
+      "sellingQuantity": "2 (5)"
     },
     {
       "name": "",
