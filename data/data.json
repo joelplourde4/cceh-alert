@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-14T13:18:06.380Z",
+  "timestamp": "2025-10-14T13:33:07.280Z",
   "count": 129,
   "data": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "name": "Objet de collection",
-      "buyingPrice": "100",
+      "buyingPrice": "95",
       "buyingQuantity": "10",
       "sellingPrice": null,
       "sellingQuantity": "0"
@@ -592,8 +592,8 @@
     },
     {
       "name": "Démon",
-      "buyingPrice": "500",
-      "buyingQuantity": "1",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
