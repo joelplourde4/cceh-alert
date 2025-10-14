@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-14T13:48:06.483Z",
+  "timestamp": "2025-10-14T17:03:06.788Z",
   "count": 129,
   "data": [
     {
@@ -53,8 +53,8 @@
     },
     {
       "name": "Armement",
-      "buyingPrice": "7.50",
-      "buyingQuantity": null,
+      "buyingPrice": "7.25",
+      "buyingQuantity": "80",
       "sellingPrice": "9",
       "sellingQuantity": "10 (30)"
     },
@@ -242,15 +242,15 @@
     },
     {
       "name": "Admirateur",
-      "buyingPrice": "70",
-      "buyingQuantity": "5",
+      "buyingPrice": "75",
+      "buyingQuantity": null,
       "sellingPrice": "95",
       "sellingQuantity": "1 (2)"
     },
     {
       "name": "Artiste",
       "buyingPrice": "200",
-      "buyingQuantity": "2",
+      "buyingQuantity": "1",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -305,7 +305,7 @@
     },
     {
       "name": "Mécène",
-      "buyingPrice": "67",
+      "buyingPrice": "300",
       "buyingQuantity": "1",
       "sellingPrice": "460",
       "sellingQuantity": "3 (4)"
