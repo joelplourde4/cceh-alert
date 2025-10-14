@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-14T13:33:07.280Z",
+  "timestamp": "2025-10-14T13:48:06.483Z",
   "count": 129,
   "data": [
     {
@@ -902,8 +902,8 @@
       "name": "Pierres précieuses",
       "buyingPrice": "15",
       "buyingQuantity": "26",
-      "sellingPrice": "15.50",
-      "sellingQuantity": "70 (365)"
+      "sellingPrice": "16",
+      "sellingQuantity": "295"
     }
   ]
 }
