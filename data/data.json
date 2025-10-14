@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-14T20:33:06.881Z",
+  "timestamp": "2025-10-14T20:48:05.985Z",
   "count": 129,
   "data": [
     {
@@ -615,8 +615,8 @@
       "name": "Crâne",
       "buyingPrice": "90",
       "buyingQuantity": "2",
-      "sellingPrice": "100",
-      "sellingQuantity": "9 (19)"
+      "sellingPrice": "95",
+      "sellingQuantity": "2 (19)"
     },
     {
       "name": "Énergie pure",
