@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-13T23:18:06.180Z",
+  "timestamp": "2025-10-14T13:18:06.380Z",
   "count": 129,
   "data": [
     {
@@ -104,8 +104,8 @@
       "name": "Bateau de pêche",
       "buyingPrice": "95",
       "buyingQuantity": "4",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "105",
+      "sellingQuantity": "1"
     },
     {
       "name": "Butin",
@@ -188,8 +188,8 @@
       "name": "Esclaves",
       "buyingPrice": null,
       "buyingQuantity": "0",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "36",
+      "sellingQuantity": "20"
     },
     {
       "name": "Forestier",
@@ -216,15 +216,15 @@
       "name": "Paysan",
       "buyingPrice": "36",
       "buyingQuantity": "10",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "39",
+      "sellingQuantity": "15"
     },
     {
       "name": "Peaux vertes",
       "buyingPrice": "36",
       "buyingQuantity": "5",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "38.50",
+      "sellingQuantity": "25"
     },
     {
       "name": "Voelhoorn",
@@ -298,10 +298,10 @@
     },
     {
       "name": "Maçon",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
-      "sellingPrice": "80",
-      "sellingQuantity": "10"
+      "buyingPrice": "65",
+      "buyingQuantity": "5",
+      "sellingPrice": "75",
+      "sellingQuantity": "5 (15)"
     },
     {
       "name": "Mécène",
@@ -328,8 +328,8 @@
       "name": "Mentor Militaire",
       "buyingPrice": "60",
       "buyingQuantity": "5",
-      "sellingPrice": "75",
-      "sellingQuantity": "5 (8)"
+      "sellingPrice": "70",
+      "sellingQuantity": "5 (13)"
     },
     {
       "name": "Scribe",
