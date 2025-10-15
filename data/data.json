@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-15T01:33:07.081Z",
+  "timestamp": "2025-10-15T11:18:06.087Z",
   "count": 129,
   "data": [
     {
@@ -251,8 +251,8 @@
       "name": "Artiste",
       "buyingPrice": "200",
       "buyingQuantity": "1",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "275",
+      "sellingQuantity": "1"
     },
     {
       "name": "Charpentier",
@@ -265,8 +265,8 @@
       "name": "Croyant",
       "buyingPrice": "150",
       "buyingQuantity": "2",
-      "sellingPrice": "200",
-      "sellingQuantity": "3"
+      "sellingPrice": "194",
+      "sellingQuantity": "3 (6)"
     },
     {
       "name": "Forgeron",
@@ -622,8 +622,8 @@
       "name": "Énergie pure",
       "buyingPrice": "900",
       "buyingQuantity": "1",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "990",
+      "sellingQuantity": "1"
     },
     {
       "name": "Esprit de la forêt",
