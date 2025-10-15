@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-14T21:03:06.781Z",
+  "timestamp": "2025-10-15T01:33:07.081Z",
   "count": 129,
   "data": [
     {
@@ -19,9 +19,9 @@
     {
       "name": "Fiche de population événement spécial",
       "buyingPrice": "180",
-      "buyingQuantity": "40",
-      "sellingPrice": "200",
-      "sellingQuantity": "1 (8)"
+      "buyingQuantity": "39",
+      "sellingPrice": "300",
+      "sellingQuantity": "7"
     },
     {
       "name": "Fiche de population grande bataille",
