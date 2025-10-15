@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-10-15T11:18:06.087Z",
-  "count": 129,
+  "timestamp": "2025-10-15T12:48:05.782Z",
+  "count": 128,
   "data": [
     {
       "name": "",
@@ -89,7 +89,7 @@
     {
       "name": "Victuailles",
       "buyingPrice": "7.50",
-      "buyingQuantity": null,
+      "buyingQuantity": "200",
       "sellingPrice": "8",
       "sellingQuantity": "174 (374)"
     },
@@ -228,8 +228,8 @@
     },
     {
       "name": "Voelhoorn",
-      "buyingPrice": "35",
-      "buyingQuantity": "10",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -246,13 +246,6 @@
       "buyingQuantity": null,
       "sellingPrice": "95",
       "sellingQuantity": "1 (2)"
-    },
-    {
-      "name": "Artiste",
-      "buyingPrice": "200",
-      "buyingQuantity": "1",
-      "sellingPrice": "275",
-      "sellingQuantity": "1"
     },
     {
       "name": "Charpentier",
