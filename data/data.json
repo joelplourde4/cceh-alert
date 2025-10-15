@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-10-15T12:48:05.782Z",
-  "count": 128,
+  "timestamp": "2025-10-15T19:03:06.683Z",
+  "count": 129,
   "data": [
     {
       "name": "",
@@ -248,6 +248,13 @@
       "sellingQuantity": "1 (2)"
     },
     {
+      "name": "Artiste",
+      "buyingPrice": "200",
+      "buyingQuantity": "1",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
       "name": "Charpentier",
       "buyingPrice": "65",
       "buyingQuantity": "10",
@@ -298,7 +305,7 @@
     },
     {
       "name": "Mécène",
-      "buyingPrice": "300",
+      "buyingPrice": "150",
       "buyingQuantity": "1",
       "sellingPrice": "460",
       "sellingQuantity": "3 (4)"
