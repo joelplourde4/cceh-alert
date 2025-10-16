@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-16T01:18:06.182Z",
+  "timestamp": "2025-10-16T22:03:07.280Z",
   "count": 129,
   "data": [
     {
@@ -468,8 +468,8 @@
       "name": "Combattant embarqué",
       "buyingPrice": "300",
       "buyingQuantity": "1",
-      "sellingPrice": "360",
-      "sellingQuantity": "2 (5)"
+      "sellingPrice": "335",
+      "sellingQuantity": "3 (5)"
     },
     {
       "name": "Flobart",
@@ -865,8 +865,8 @@
     },
     {
       "name": "Influence Territoire de l'oubli",
-      "buyingPrice": "20",
-      "buyingQuantity": "10",
+      "buyingPrice": "25",
+      "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
