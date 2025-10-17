@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-17T13:33:07.083Z",
+  "timestamp": "2025-10-17T13:48:06.181Z",
   "count": 128,
   "data": [
     {
@@ -123,7 +123,7 @@
     },
     {
       "name": "Faveur Divine",
-      "buyingPrice": "10",
+      "buyingPrice": "11",
       "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
@@ -165,7 +165,7 @@
     },
     {
       "name": "Renommée Artistique",
-      "buyingPrice": "10",
+      "buyingPrice": "11",
       "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
@@ -193,8 +193,8 @@
     },
     {
       "name": "Forestier",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "30",
+      "buyingQuantity": "20",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -224,7 +224,7 @@
       "buyingPrice": "36",
       "buyingQuantity": "5",
       "sellingPrice": "38.50",
-      "sellingQuantity": "25"
+      "sellingQuantity": "24"
     },
     {
       "name": "Voelhoorn",
@@ -396,8 +396,8 @@
     },
     {
       "name": "Soldat de métier",
-      "buyingPrice": "290",
-      "buyingQuantity": "2",
+      "buyingPrice": "300",
+      "buyingQuantity": null,
       "sellingPrice": "340",
       "sellingQuantity": "1"
     },
@@ -530,7 +530,7 @@
     {
       "name": "Ilta-matcha",
       "buyingPrice": "320",
-      "buyingQuantity": "1",
+      "buyingQuantity": null,
       "sellingPrice": "340",
       "sellingQuantity": "1 (3)"
     },
