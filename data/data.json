@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-10-17T00:48:06.087Z",
-  "count": 129,
+  "timestamp": "2025-10-17T12:18:06.383Z",
+  "count": 128,
   "data": [
     {
       "name": "",
@@ -53,15 +53,15 @@
     },
     {
       "name": "Armement",
-      "buyingPrice": "7.50",
-      "buyingQuantity": "100",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "9.50",
       "sellingQuantity": "28 (48)"
     },
     {
       "name": "Bétail",
-      "buyingPrice": "7",
-      "buyingQuantity": null,
+      "buyingPrice": "6.50",
+      "buyingQuantity": "20",
       "sellingPrice": "7.50",
       "sellingQuantity": "94 (324)"
     },
@@ -89,7 +89,7 @@
     {
       "name": "Victuailles",
       "buyingPrice": "7.50",
-      "buyingQuantity": "200",
+      "buyingQuantity": "100",
       "sellingPrice": "8",
       "sellingQuantity": "174 (374)"
     },
@@ -752,13 +752,6 @@
       "sellingQuantity": null
     },
     {
-      "name": "Potion de guérison",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
-      "sellingPrice": "1900",
-      "sellingQuantity": "1"
-    },
-    {
       "name": "Poudre à canon",
       "buyingPrice": "750",
       "buyingQuantity": "1",
@@ -889,7 +882,7 @@
       "buyingPrice": "10",
       "buyingQuantity": "10",
       "sellingPrice": "11",
-      "sellingQuantity": "128"
+      "sellingQuantity": "120"
     },
     {
       "name": "Minerai d'or",
