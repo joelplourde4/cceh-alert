@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-17T00:18:06.479Z",
+  "timestamp": "2025-10-17T00:48:06.087Z",
   "count": 129,
   "data": [
     {
@@ -118,8 +118,8 @@
       "name": "Cargaison",
       "buyingPrice": "95",
       "buyingQuantity": "6",
-      "sellingPrice": "105",
-      "sellingQuantity": "10 (28)"
+      "sellingPrice": "99",
+      "sellingQuantity": "1 (29)"
     },
     {
       "name": "Faveur Divine",
@@ -272,8 +272,8 @@
       "name": "Forgeron",
       "buyingPrice": "70",
       "buyingQuantity": "4",
-      "sellingPrice": "90",
-      "sellingQuantity": "8"
+      "sellingPrice": "79",
+      "sellingQuantity": "4 (12)"
     },
     {
       "name": "Ingénieur",
@@ -293,8 +293,8 @@
       "name": "Laborantin",
       "buyingPrice": "60",
       "buyingQuantity": "5",
-      "sellingPrice": "75",
-      "sellingQuantity": "3 (15)"
+      "sellingPrice": "69",
+      "sellingQuantity": "10 (25)"
     },
     {
       "name": "Maçon",
