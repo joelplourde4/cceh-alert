@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-17T12:18:06.383Z",
+  "timestamp": "2025-10-17T13:18:06.280Z",
   "count": 128,
   "data": [
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "Ingénieur",
-      "buyingPrice": "60",
-      "buyingQuantity": "5",
+      "buyingPrice": "65",
+      "buyingQuantity": null,
       "sellingPrice": "90",
       "sellingQuantity": "11"
     },
@@ -298,8 +298,8 @@
     },
     {
       "name": "Maçon",
-      "buyingPrice": "65",
-      "buyingQuantity": "5",
+      "buyingPrice": "67",
+      "buyingQuantity": null,
       "sellingPrice": "75",
       "sellingQuantity": "5 (15)"
     },
