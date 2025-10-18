@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-18T13:18:06.186Z",
+  "timestamp": "2025-10-18T14:03:07.180Z",
   "count": 128,
   "data": [
     {
@@ -273,7 +273,7 @@
       "buyingPrice": "70",
       "buyingQuantity": "4",
       "sellingPrice": "79",
-      "sellingQuantity": "4 (12)"
+      "sellingQuantity": "3 (11)"
     },
     {
       "name": "Ingénieur",
