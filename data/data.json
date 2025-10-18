@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-18T16:18:06.479Z",
+  "timestamp": "2025-10-18T18:18:05.990Z",
   "count": 129,
   "data": [
     {
@@ -391,7 +391,7 @@
       "name": "Milice",
       "buyingPrice": "275",
       "buyingQuantity": "1",
-      "sellingPrice": "300",
+      "sellingPrice": "310",
       "sellingQuantity": "1 (5)"
     },
     {
@@ -696,7 +696,7 @@
       "sellingQuantity": null
     },
     {
-      "name": "Champignons phosporescents",
+      "name": "Champignons phosphorescents",
       "buyingPrice": null,
       "buyingQuantity": "0",
       "sellingPrice": "460",
