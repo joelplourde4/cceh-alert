@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-18T21:18:06.183Z",
+  "timestamp": "2025-10-18T21:48:06.179Z",
   "count": 129,
   "data": [
     {
@@ -783,7 +783,7 @@
       "name": "Influence Andore",
       "buyingPrice": "25",
       "buyingQuantity": "10",
-      "sellingPrice": "28",
+      "sellingPrice": "30",
       "sellingQuantity": "10"
     },
     {
