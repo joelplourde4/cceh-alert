@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-18T18:18:05.990Z",
+  "timestamp": "2025-10-18T20:03:07.283Z",
   "count": 129,
   "data": [
     {
@@ -70,7 +70,7 @@
       "buyingPrice": "7",
       "buyingQuantity": "90",
       "sellingPrice": "8",
-      "sellingQuantity": "56"
+      "sellingQuantity": "55"
     },
     {
       "name": "Équipement",
@@ -91,7 +91,7 @@
       "buyingPrice": "7.50",
       "buyingQuantity": "100",
       "sellingPrice": "8",
-      "sellingQuantity": "174 (374)"
+      "sellingQuantity": "173 (373)"
     },
     {
       "name": "",
@@ -406,7 +406,7 @@
       "buyingPrice": "310",
       "buyingQuantity": "1",
       "sellingPrice": "340",
-      "sellingQuantity": "1 (16)"
+      "sellingQuantity": "1 (2)"
     },
     {
       "name": "",
