@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-18T20:03:07.283Z",
+  "timestamp": "2025-10-18T21:18:06.183Z",
   "count": 129,
   "data": [
     {
@@ -11,10 +11,10 @@
     },
     {
       "name": "Fiche de population activité",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
-      "sellingPrice": "104",
-      "sellingQuantity": "1 (7)"
+      "buyingPrice": "90",
+      "buyingQuantity": "25",
+      "sellingPrice": "103",
+      "sellingQuantity": "10 (31)"
     },
     {
       "name": "Fiche de population événement spécial",
@@ -25,17 +25,17 @@
     },
     {
       "name": "Fiche de population grande bataille",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
-      "sellingPrice": "110",
-      "sellingQuantity": "2 (7)"
+      "buyingPrice": "90",
+      "buyingQuantity": "25",
+      "sellingPrice": "103",
+      "sellingQuantity": "4 (21)"
     },
     {
       "name": "Fiche de population thématique",
       "buyingPrice": null,
       "buyingQuantity": "0",
-      "sellingPrice": "110",
-      "sellingQuantity": "1 (7)"
+      "sellingPrice": "105",
+      "sellingQuantity": "3 (10)"
     },
     {
       "name": "Fiche de population Tournoi des nations",
