@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-10-18T15:03:07.085Z",
-  "count": 128,
+  "timestamp": "2025-10-18T16:18:06.479Z",
+  "count": 129,
   "data": [
     {
       "name": "",
@@ -20,8 +20,8 @@
       "name": "Fiche de population événement spécial",
       "buyingPrice": "180",
       "buyingQuantity": "39",
-      "sellingPrice": "300",
-      "sellingQuantity": "7"
+      "sellingPrice": "222",
+      "sellingQuantity": "5 (12)"
     },
     {
       "name": "Fiche de population grande bataille",
@@ -84,7 +84,7 @@
       "buyingPrice": "7.50",
       "buyingQuantity": "100",
       "sellingPrice": "8.50",
-      "sellingQuantity": "50 (70)"
+      "sellingQuantity": "50 (110)"
     },
     {
       "name": "Victuailles",
@@ -202,8 +202,8 @@
       "name": "Marin",
       "buyingPrice": "35",
       "buyingQuantity": "10",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "42",
+      "sellingQuantity": "10"
     },
     {
       "name": "Nomade",
@@ -307,8 +307,8 @@
       "name": "Mécène",
       "buyingPrice": "150",
       "buyingQuantity": "1",
-      "sellingPrice": "460",
-      "sellingQuantity": "3 (4)"
+      "sellingPrice": "459",
+      "sellingQuantity": "1 (5)"
     },
     {
       "name": "Mentor d'aventurier",
@@ -385,14 +385,14 @@
       "buyingPrice": "160",
       "buyingQuantity": "2",
       "sellingPrice": "185",
-      "sellingQuantity": "2 (8)"
+      "sellingQuantity": "2 (9)"
     },
     {
       "name": "Milice",
       "buyingPrice": "275",
       "buyingQuantity": "1",
-      "sellingPrice": "310",
-      "sellingQuantity": "1 (4)"
+      "sellingPrice": "300",
+      "sellingQuantity": "1 (5)"
     },
     {
       "name": "Soldat de métier",
@@ -420,7 +420,7 @@
       "buyingPrice": "240",
       "buyingQuantity": "2",
       "sellingPrice": "270",
-      "sellingQuantity": "2"
+      "sellingQuantity": "2 (3)"
     },
     {
       "name": "Brigand",
@@ -455,7 +455,7 @@
       "buyingPrice": "225",
       "buyingQuantity": "2",
       "sellingPrice": "250",
-      "sellingQuantity": "1 (7)"
+      "sellingQuantity": "1 (8)"
     },
     {
       "name": "",
@@ -616,7 +616,7 @@
       "buyingPrice": "90",
       "buyingQuantity": "2",
       "sellingPrice": "95",
-      "sellingQuantity": "2 (19)"
+      "sellingQuantity": "2 (21)"
     },
     {
       "name": "Énergie pure",
@@ -694,6 +694,13 @@
       "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": null
+    },
+    {
+      "name": "Champignons phosporescents",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": "460",
+      "sellingQuantity": "1"
     },
     {
       "name": "Cheveux de sirène",
