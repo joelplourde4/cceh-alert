@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-19T19:18:06.784Z",
+  "timestamp": "2025-10-19T19:33:07.487Z",
   "count": 129,
   "data": [
     {
@@ -224,7 +224,7 @@
       "buyingPrice": "36",
       "buyingQuantity": "5",
       "sellingPrice": "38.50",
-      "sellingQuantity": "24"
+      "sellingQuantity": "4"
     },
     {
       "name": "Voelhoorn",
