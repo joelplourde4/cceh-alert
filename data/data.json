@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-24T00:03:07.685Z",
+  "timestamp": "2025-10-24T03:33:08.079Z",
   "count": 129,
   "data": [
     {
@@ -893,8 +893,8 @@
     },
     {
       "name": "Minerai d'or",
-      "buyingPrice": "25",
-      "buyingQuantity": "7",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "27",
       "sellingQuantity": "60"
     },
