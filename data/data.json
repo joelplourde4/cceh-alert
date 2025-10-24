@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-24T14:18:07.284Z",
+  "timestamp": "2025-10-24T14:33:08.080Z",
   "count": 129,
   "data": [
     {
@@ -88,8 +88,8 @@
     },
     {
       "name": "Victuailles",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "7.25",
+      "buyingQuantity": "100",
       "sellingPrice": "8",
       "sellingQuantity": "73 (273)"
     },
@@ -102,8 +102,8 @@
     },
     {
       "name": "Bateau de pêche",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "90",
+      "buyingQuantity": "5",
       "sellingPrice": "105",
       "sellingQuantity": "1"
     },
@@ -326,10 +326,10 @@
     },
     {
       "name": "Mentor Militaire",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "60",
+      "buyingQuantity": "5",
       "sellingPrice": "70",
-      "sellingQuantity": "5 (13)"
+      "sellingQuantity": "10 (18)"
     },
     {
       "name": "Scribe",
@@ -893,8 +893,8 @@
     },
     {
       "name": "Minerai d'or",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "25",
+      "buyingQuantity": "20",
       "sellingPrice": "27",
       "sellingQuantity": "60"
     },
