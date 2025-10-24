@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-24T03:33:08.079Z",
+  "timestamp": "2025-10-24T14:18:07.284Z",
   "count": 129,
   "data": [
     {
@@ -53,10 +53,10 @@
     },
     {
       "name": "Armement",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
-      "sellingPrice": "9.25",
-      "sellingQuantity": "28 (48)"
+      "buyingPrice": "7.25",
+      "buyingQuantity": "100",
+      "sellingPrice": "8.25",
+      "sellingQuantity": "100 (148)"
     },
     {
       "name": "Bétail",
@@ -109,15 +109,15 @@
     },
     {
       "name": "Butin",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "65",
+      "buyingQuantity": "10",
       "sellingPrice": "75",
-      "sellingQuantity": "1 (6)"
+      "sellingQuantity": "11 (16)"
     },
     {
       "name": "Cargaison",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "90",
+      "buyingQuantity": "5",
       "sellingPrice": "99",
       "sellingQuantity": "1 (29)"
     },
