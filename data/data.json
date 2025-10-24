@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-23T21:18:06.780Z",
+  "timestamp": "2025-10-24T00:03:07.685Z",
   "count": 129,
   "data": [
     {
@@ -102,22 +102,22 @@
     },
     {
       "name": "Bateau de pêche",
-      "buyingPrice": "95",
-      "buyingQuantity": "4",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "105",
       "sellingQuantity": "1"
     },
     {
       "name": "Butin",
-      "buyingPrice": "65",
-      "buyingQuantity": "10",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "75",
       "sellingQuantity": "1 (6)"
     },
     {
       "name": "Cargaison",
-      "buyingPrice": "95",
-      "buyingQuantity": "6",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "99",
       "sellingQuantity": "1 (29)"
     },
@@ -326,8 +326,8 @@
     },
     {
       "name": "Mentor Militaire",
-      "buyingPrice": "60",
-      "buyingQuantity": "5",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "70",
       "sellingQuantity": "5 (13)"
     },
@@ -356,8 +356,8 @@
       "name": "Artilleur",
       "buyingPrice": "300",
       "buyingQuantity": "2",
-      "sellingPrice": "349",
-      "sellingQuantity": "1 (8)"
+      "sellingPrice": "375",
+      "sellingQuantity": "6"
     },
     {
       "name": "Canon",
@@ -420,14 +420,14 @@
       "buyingPrice": "240",
       "buyingQuantity": "2",
       "sellingPrice": "270",
-      "sellingQuantity": "2 (3)"
+      "sellingQuantity": "1 (2)"
     },
     {
       "name": "Brigand",
       "buyingPrice": "220",
       "buyingQuantity": "2",
       "sellingPrice": "240",
-      "sellingQuantity": "2 (3)"
+      "sellingQuantity": "1 (2)"
     },
     {
       "name": "",
