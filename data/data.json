@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-27T13:48:06.683Z",
+  "timestamp": "2025-10-27T18:03:07.680Z",
   "count": 129,
   "data": [
     {
@@ -636,8 +636,8 @@
       "name": "Golhir",
       "buyingPrice": "90",
       "buyingQuantity": "1",
-      "sellingPrice": "100",
-      "sellingQuantity": "2 (4)"
+      "sellingPrice": "95",
+      "sellingQuantity": "3 (5)"
     },
     {
       "name": "Ingrédient",
@@ -650,7 +650,7 @@
       "name": "Invention",
       "buyingPrice": "105",
       "buyingQuantity": "1",
-      "sellingPrice": "115",
+      "sellingPrice": "110",
       "sellingQuantity": "1 (9)"
     },
     {
@@ -678,15 +678,15 @@
       "name": "Souffle de vie",
       "buyingPrice": "90",
       "buyingQuantity": "2",
-      "sellingPrice": "100",
-      "sellingQuantity": "3 (14)"
+      "sellingPrice": "95",
+      "sellingQuantity": "4 (14)"
     },
     {
       "name": "Svir-Kala",
       "buyingPrice": "90",
       "buyingQuantity": "2",
-      "sellingPrice": "100",
-      "sellingQuantity": "1 (13)"
+      "sellingPrice": "95",
+      "sellingQuantity": "3 (13)"
     },
     {
       "name": "",
