@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-24T15:33:07.884Z",
+  "timestamp": "2025-10-27T13:18:06.981Z",
   "count": 129,
   "data": [
     {
@@ -130,15 +130,15 @@
     },
     {
       "name": "Faveur Magique",
-      "buyingPrice": "6",
-      "buyingQuantity": "100",
+      "buyingPrice": "7",
+      "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
     {
       "name": "Faveur Occulte",
-      "buyingPrice": "6",
-      "buyingQuantity": "100",
+      "buyingPrice": "7",
+      "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
