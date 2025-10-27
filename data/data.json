@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-27T18:03:07.680Z",
+  "timestamp": "2025-10-27T18:18:07.684Z",
   "count": 129,
   "data": [
     {
@@ -104,8 +104,8 @@
       "name": "Bateau de pêche",
       "buyingPrice": "90",
       "buyingQuantity": "5",
-      "sellingPrice": "105",
-      "sellingQuantity": "1"
+      "sellingPrice": "100",
+      "sellingQuantity": "4 (5)"
     },
     {
       "name": "Butin",
@@ -118,8 +118,8 @@
       "name": "Cargaison",
       "buyingPrice": "90",
       "buyingQuantity": "5",
-      "sellingPrice": "99",
-      "sellingQuantity": "1 (29)"
+      "sellingPrice": "105",
+      "sellingQuantity": "10 (28)"
     },
     {
       "name": "Faveur Divine",
@@ -627,10 +627,10 @@
     },
     {
       "name": "Esprit de la forêt",
-      "buyingPrice": "90",
+      "buyingPrice": "85",
       "buyingQuantity": "4",
-      "sellingPrice": "95",
-      "sellingQuantity": "1 (3)"
+      "sellingPrice": "90",
+      "sellingQuantity": "9 (12)"
     },
     {
       "name": "Golhir",
