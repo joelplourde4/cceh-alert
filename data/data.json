@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-28T14:18:06.687Z",
+  "timestamp": "2025-10-28T20:03:07.983Z",
   "count": 129,
   "data": [
     {
@@ -826,7 +826,7 @@
       "buyingPrice": "20",
       "buyingQuantity": "5",
       "sellingPrice": "30",
-      "sellingQuantity": "5"
+      "sellingQuantity": "7"
     },
     {
       "name": "Influence Irendille",
