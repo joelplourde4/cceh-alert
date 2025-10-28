@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-27T18:18:07.684Z",
+  "timestamp": "2025-10-28T14:18:06.687Z",
   "count": 129,
   "data": [
     {
@@ -203,7 +203,7 @@
       "buyingPrice": "35",
       "buyingQuantity": "10",
       "sellingPrice": "42",
-      "sellingQuantity": "8"
+      "sellingQuantity": "8 (11)"
     },
     {
       "name": "Nomade",
@@ -406,7 +406,7 @@
       "buyingPrice": "310",
       "buyingQuantity": "1",
       "sellingPrice": "340",
-      "sellingQuantity": "1 (2)"
+      "sellingQuantity": "1 (9)"
     },
     {
       "name": "",
@@ -783,8 +783,8 @@
       "name": "Influence Andore",
       "buyingPrice": "25",
       "buyingQuantity": "10",
-      "sellingPrice": "30",
-      "sellingQuantity": "10"
+      "sellingPrice": null,
+      "sellingQuantity": "0"
     },
     {
       "name": "Influence Berkwald",
@@ -866,7 +866,7 @@
     {
       "name": "Influence Territoire de l'oubli",
       "buyingPrice": "20",
-      "buyingQuantity": "10",
+      "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
