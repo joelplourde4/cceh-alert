@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-29T01:03:08.081Z",
+  "timestamp": "2025-10-30T00:18:06.982Z",
   "count": 129,
   "data": [
     {
@@ -88,8 +88,8 @@
     },
     {
       "name": "Victuailles",
-      "buyingPrice": "7.25",
-      "buyingQuantity": "100",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "8",
       "sellingQuantity": "73 (273)"
     },
@@ -511,7 +511,7 @@
       "buyingPrice": null,
       "buyingQuantity": "0",
       "sellingPrice": "575",
-      "sellingQuantity": "3 (4)"
+      "sellingQuantity": "2 (3)"
     },
     {
       "name": "",
@@ -686,7 +686,7 @@
       "buyingPrice": "90",
       "buyingQuantity": "2",
       "sellingPrice": "95",
-      "sellingQuantity": "3 (13)"
+      "sellingQuantity": "2 (12)"
     },
     {
       "name": "",
