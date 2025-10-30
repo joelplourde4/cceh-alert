@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-30T00:18:06.982Z",
+  "timestamp": "2025-10-30T13:48:07.284Z",
   "count": 129,
   "data": [
     {
@@ -88,8 +88,8 @@
     },
     {
       "name": "Victuailles",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "7.25",
+      "buyingQuantity": "100",
       "sellingPrice": "8",
       "sellingQuantity": "73 (273)"
     },
@@ -490,7 +490,7 @@
       "buyingPrice": "480",
       "buyingQuantity": "1",
       "sellingPrice": "520",
-      "sellingQuantity": "2 (5)"
+      "sellingQuantity": "2 (4)"
     },
     {
       "name": "",
@@ -531,8 +531,8 @@
       "name": "Ilta-matcha",
       "buyingPrice": "320",
       "buyingQuantity": null,
-      "sellingPrice": "340",
-      "sellingQuantity": "1 (3)"
+      "sellingPrice": "330",
+      "sellingQuantity": "2 (3)"
     },
     {
       "name": "Milice elfique",
