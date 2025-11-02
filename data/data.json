@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-02T16:03:08.980Z",
+  "timestamp": "2025-11-02T17:33:08.780Z",
   "count": 129,
   "data": [
     {
@@ -613,8 +613,8 @@
     },
     {
       "name": "Crâne",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "85",
+      "buyingQuantity": "4",
       "sellingPrice": "95",
       "sellingQuantity": "2 (19)"
     },
