@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-30T14:03:08.486Z",
+  "timestamp": "2025-11-02T16:03:08.980Z",
   "count": 129,
   "data": [
     {
@@ -613,10 +613,10 @@
     },
     {
       "name": "Crâne",
-      "buyingPrice": "90",
-      "buyingQuantity": "2",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "95",
-      "sellingQuantity": "2 (21)"
+      "sellingQuantity": "2 (19)"
     },
     {
       "name": "Énergie pure",
@@ -637,7 +637,7 @@
       "buyingPrice": "90",
       "buyingQuantity": "1",
       "sellingPrice": "95",
-      "sellingQuantity": "3 (5)"
+      "sellingQuantity": "1 (3)"
     },
     {
       "name": "Ingrédient",
