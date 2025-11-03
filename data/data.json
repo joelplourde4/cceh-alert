@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-03T19:18:07.880Z",
+  "timestamp": "2025-11-03T21:48:07.879Z",
   "count": 129,
   "data": [
     {
@@ -152,7 +152,7 @@
     {
       "name": "Objet de collection",
       "buyingPrice": "95",
-      "buyingQuantity": "10",
+      "buyingQuantity": "7",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -294,7 +294,7 @@
       "buyingPrice": "60",
       "buyingQuantity": "5",
       "sellingPrice": "69",
-      "sellingQuantity": "6 (21)"
+      "sellingQuantity": "2 (17)"
     },
     {
       "name": "Maçon",
