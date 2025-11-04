@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-04T01:03:08.886Z",
+  "timestamp": "2025-11-04T13:03:09.584Z",
   "count": 129,
   "data": [
     {
@@ -153,8 +153,8 @@
       "name": "Objet de collection",
       "buyingPrice": "95",
       "buyingQuantity": "7",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "110",
+      "sellingQuantity": "3"
     },
     {
       "name": "Oeuvre",
@@ -188,8 +188,8 @@
       "name": "Esclaves",
       "buyingPrice": "33",
       "buyingQuantity": "50",
-      "sellingPrice": "36",
-      "sellingQuantity": "20"
+      "sellingPrice": "35",
+      "sellingQuantity": "10 (30)"
     },
     {
       "name": "Forestier",
@@ -384,8 +384,8 @@
       "name": "Mercenaire",
       "buyingPrice": "160",
       "buyingQuantity": "2",
-      "sellingPrice": "190",
-      "sellingQuantity": "2 (7)"
+      "sellingPrice": "180",
+      "sellingQuantity": "1 (8)"
     },
     {
       "name": "Milice",
@@ -466,10 +466,10 @@
     },
     {
       "name": "Combattant embarqué",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
-      "sellingPrice": "330",
-      "sellingQuantity": "2 (4)"
+      "buyingPrice": "290",
+      "buyingQuantity": "1",
+      "sellingPrice": "320",
+      "sellingQuantity": "1 (5)"
     },
     {
       "name": "Flobart",
@@ -671,7 +671,7 @@
       "name": "Points de pouvoir",
       "buyingPrice": "500",
       "buyingQuantity": "1",
-      "sellingPrice": "575",
+      "sellingPrice": "550",
       "sellingQuantity": "1 (2)"
     },
     {
