@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-03T21:48:07.879Z",
+  "timestamp": "2025-11-04T01:03:08.886Z",
   "count": 129,
   "data": [
     {
@@ -466,10 +466,10 @@
     },
     {
       "name": "Combattant embarqué",
-      "buyingPrice": "300",
-      "buyingQuantity": "1",
-      "sellingPrice": "335",
-      "sellingQuantity": "3 (5)"
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": "330",
+      "sellingQuantity": "2 (4)"
     },
     {
       "name": "Flobart",
@@ -636,8 +636,8 @@
       "name": "Golhir",
       "buyingPrice": "90",
       "buyingQuantity": "1",
-      "sellingPrice": "95",
-      "sellingQuantity": "1 (3)"
+      "sellingPrice": "100",
+      "sellingQuantity": "2"
     },
     {
       "name": "Ingrédient",
@@ -650,8 +650,8 @@
       "name": "Invention",
       "buyingPrice": "105",
       "buyingQuantity": "1",
-      "sellingPrice": "110",
-      "sellingQuantity": "1 (9)"
+      "sellingPrice": "115",
+      "sellingQuantity": "1 (8)"
     },
     {
       "name": "Manthora",
@@ -679,14 +679,14 @@
       "buyingPrice": "90",
       "buyingQuantity": "2",
       "sellingPrice": "95",
-      "sellingQuantity": "4 (14)"
+      "sellingQuantity": "3 (13)"
     },
     {
       "name": "Svir-Kala",
       "buyingPrice": "90",
       "buyingQuantity": "2",
-      "sellingPrice": "95",
-      "sellingQuantity": "2 (12)"
+      "sellingPrice": "100",
+      "sellingQuantity": "1 (10)"
     },
     {
       "name": "",
@@ -748,7 +748,7 @@
       "name": "Saphir tellurique",
       "buyingPrice": null,
       "buyingQuantity": "0",
-      "sellingPrice": "524",
+      "sellingPrice": "500",
       "sellingQuantity": "1"
     },
     {
