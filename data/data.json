@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-04T13:03:09.584Z",
+  "timestamp": "2025-11-05T17:48:08.137Z",
   "count": 129,
   "data": [
     {
@@ -194,7 +194,7 @@
     {
       "name": "Forestier",
       "buyingPrice": "30",
-      "buyingQuantity": "4",
+      "buyingQuantity": "5",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -208,7 +208,7 @@
     {
       "name": "Nomade",
       "buyingPrice": "30",
-      "buyingQuantity": "3",
+      "buyingQuantity": "5",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -305,7 +305,7 @@
     },
     {
       "name": "Mécène",
-      "buyingPrice": "150",
+      "buyingPrice": "250",
       "buyingQuantity": "1",
       "sellingPrice": "459",
       "sellingQuantity": "1 (5)"
@@ -615,8 +615,8 @@
       "name": "Crâne",
       "buyingPrice": "85",
       "buyingQuantity": "4",
-      "sellingPrice": "95",
-      "sellingQuantity": "2 (19)"
+      "sellingPrice": "100",
+      "sellingQuantity": "9 (17)"
     },
     {
       "name": "Énergie pure",
@@ -678,8 +678,8 @@
       "name": "Souffle de vie",
       "buyingPrice": "90",
       "buyingQuantity": "2",
-      "sellingPrice": "95",
-      "sellingQuantity": "3 (13)"
+      "sellingPrice": "100",
+      "sellingQuantity": "3 (10)"
     },
     {
       "name": "Svir-Kala",
