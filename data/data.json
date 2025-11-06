@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-05T18:33:09.533Z",
+  "timestamp": "2025-11-06T00:03:09.836Z",
   "count": 129,
   "data": [
     {
@@ -622,7 +622,7 @@
       "name": "Énergie pure",
       "buyingPrice": "900",
       "buyingQuantity": "1",
-      "sellingPrice": "990",
+      "sellingPrice": "950",
       "sellingQuantity": "1"
     },
     {
@@ -636,8 +636,8 @@
       "name": "Golhir",
       "buyingPrice": "90",
       "buyingQuantity": "1",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "115",
+      "sellingQuantity": "2"
     },
     {
       "name": "Ingrédient",
