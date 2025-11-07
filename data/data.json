@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-07T00:10:46.770Z",
+  "timestamp": "2025-11-07T13:25:47.973Z",
   "count": 129,
   "data": [
     {
@@ -28,7 +28,7 @@
       "buyingPrice": "90",
       "buyingQuantity": "25",
       "sellingPrice": "103",
-      "sellingQuantity": "4 (19)"
+      "sellingQuantity": "4 (29)"
     },
     {
       "name": "Fiche de population thématique",
@@ -454,8 +454,8 @@
       "name": "Tirailleurs",
       "buyingPrice": "225",
       "buyingQuantity": "2",
-      "sellingPrice": "250",
-      "sellingQuantity": "1 (8)"
+      "sellingPrice": "240",
+      "sellingQuantity": "1 (9)"
     },
     {
       "name": "",
@@ -615,8 +615,8 @@
       "name": "Crâne",
       "buyingPrice": "85",
       "buyingQuantity": "4",
-      "sellingPrice": "100",
-      "sellingQuantity": "9 (17)"
+      "sellingPrice": "95",
+      "sellingQuantity": "4 (19)"
     },
     {
       "name": "Énergie pure",
