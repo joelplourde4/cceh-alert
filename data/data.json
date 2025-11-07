@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-06T02:03:09.833Z",
+  "timestamp": "2025-11-07T00:10:46.770Z",
   "count": 129,
   "data": [
     {
@@ -91,7 +91,7 @@
       "buyingPrice": "7.25",
       "buyingQuantity": "100",
       "sellingPrice": "8",
-      "sellingQuantity": "73 (273)"
+      "sellingQuantity": "68 (268)"
     },
     {
       "name": "",
@@ -307,8 +307,8 @@
       "name": "Mécène",
       "buyingPrice": "250",
       "buyingQuantity": "1",
-      "sellingPrice": "459",
-      "sellingQuantity": "1 (5)"
+      "sellingPrice": "460",
+      "sellingQuantity": "3 (5)"
     },
     {
       "name": "Mentor d'aventurier",
