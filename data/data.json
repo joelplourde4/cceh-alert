@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-08T13:40:46.971Z",
+  "timestamp": "2025-11-08T16:25:48.472Z",
   "count": 129,
   "data": [
     {
@@ -616,7 +616,7 @@
       "buyingPrice": "85",
       "buyingQuantity": "4",
       "sellingPrice": "95",
-      "sellingQuantity": "4 (19)"
+      "sellingQuantity": "4 (15)"
     },
     {
       "name": "Énergie pure",
