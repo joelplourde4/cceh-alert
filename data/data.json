@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-07T15:25:48.569Z",
+  "timestamp": "2025-11-08T13:40:46.971Z",
   "count": 129,
   "data": [
     {
@@ -60,8 +60,8 @@
     },
     {
       "name": "Bétail",
-      "buyingPrice": "6.50",
-      "buyingQuantity": "20",
+      "buyingPrice": "7",
+      "buyingQuantity": null,
       "sellingPrice": "7.50",
       "sellingQuantity": "94 (324)"
     },
