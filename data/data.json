@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-08T16:25:48.472Z",
+  "timestamp": "2025-11-09T15:25:48.964Z",
   "count": 129,
   "data": [
     {
@@ -90,8 +90,8 @@
       "name": "Victuailles",
       "buyingPrice": "7.25",
       "buyingQuantity": "100",
-      "sellingPrice": "8",
-      "sellingQuantity": "68 (268)"
+      "sellingPrice": "8.50",
+      "sellingQuantity": "173"
     },
     {
       "name": "",
@@ -620,10 +620,10 @@
     },
     {
       "name": "Énergie pure",
-      "buyingPrice": "900",
-      "buyingQuantity": "1",
-      "sellingPrice": "970",
-      "sellingQuantity": "1"
+      "buyingPrice": null,
+      "buyingQuantity": "0",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
     },
     {
       "name": "Esprit de la forêt",
@@ -840,7 +840,7 @@
       "buyingPrice": "15",
       "buyingQuantity": "20",
       "sellingPrice": "25",
-      "sellingQuantity": "10 (20)"
+      "sellingQuantity": "5 (15)"
     },
     {
       "name": "Influence Ozame",
