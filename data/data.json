@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-14T13:40:47.625Z",
+  "timestamp": "2025-11-14T14:25:49.428Z",
   "count": 129,
   "data": [
     {
@@ -188,8 +188,8 @@
       "name": "Esclaves",
       "buyingPrice": "33",
       "buyingQuantity": "50",
-      "sellingPrice": "36",
-      "sellingQuantity": "20"
+      "sellingPrice": "35",
+      "sellingQuantity": "10 (30)"
     },
     {
       "name": "Forestier",
@@ -665,7 +665,7 @@
       "buyingPrice": "90",
       "buyingQuantity": "2",
       "sellingPrice": "100",
-      "sellingQuantity": "7 (12)"
+      "sellingQuantity": "7 (11)"
     },
     {
       "name": "Points de pouvoir",
