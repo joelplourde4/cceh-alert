@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-14T14:40:47.925Z",
+  "timestamp": "2025-11-14T18:10:47.831Z",
   "count": 129,
   "data": [
     {
@@ -165,7 +165,7 @@
     },
     {
       "name": "Renommée Artistique",
-      "buyingPrice": "10",
+      "buyingPrice": "11",
       "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
@@ -229,7 +229,7 @@
     {
       "name": "Voelhoorn",
       "buyingPrice": "30",
-      "buyingQuantity": "20",
+      "buyingQuantity": "11",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
