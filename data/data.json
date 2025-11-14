@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-10T13:55:48.564Z",
+  "timestamp": "2025-11-14T13:40:47.625Z",
   "count": 129,
   "data": [
     {
@@ -188,8 +188,8 @@
       "name": "Esclaves",
       "buyingPrice": "33",
       "buyingQuantity": "50",
-      "sellingPrice": "35",
-      "sellingQuantity": "10 (30)"
+      "sellingPrice": "36",
+      "sellingQuantity": "20"
     },
     {
       "name": "Forestier",
@@ -511,7 +511,7 @@
       "buyingPrice": null,
       "buyingQuantity": "0",
       "sellingPrice": "575",
-      "sellingQuantity": "2 (3)"
+      "sellingQuantity": "1 (2)"
     },
     {
       "name": "",
@@ -636,8 +636,8 @@
       "name": "Golhir",
       "buyingPrice": "90",
       "buyingQuantity": "1",
-      "sellingPrice": "115",
-      "sellingQuantity": "2"
+      "sellingPrice": "110",
+      "sellingQuantity": "5 (7)"
     },
     {
       "name": "Ingrédient",
