@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-11-15T01:55:49.427Z",
-  "count": 129,
+  "timestamp": "2025-11-15T16:55:48.927Z",
+  "count": 128,
   "data": [
     {
       "name": "",
@@ -507,13 +507,6 @@
       "sellingQuantity": "2"
     },
     {
-      "name": "Kornac",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
-      "sellingPrice": "575",
-      "sellingQuantity": "1 (2)"
-    },
-    {
       "name": "",
       "buyingPrice": null,
       "buyingQuantity": null,
@@ -886,8 +879,8 @@
     },
     {
       "name": "Minerai d'argent",
-      "buyingPrice": "10",
-      "buyingQuantity": "10",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "11",
       "sellingQuantity": "120"
     },
@@ -900,8 +893,8 @@
     },
     {
       "name": "Pierres précieuses",
-      "buyingPrice": "15",
-      "buyingQuantity": "26",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "16",
       "sellingQuantity": "295"
     }
