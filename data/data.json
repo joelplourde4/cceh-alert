@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-15T16:55:48.927Z",
+  "timestamp": "2025-11-15T19:10:47.926Z",
   "count": 128,
   "data": [
     {
@@ -879,8 +879,8 @@
     },
     {
       "name": "Minerai d'argent",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "10",
+      "buyingQuantity": "30",
       "sellingPrice": "11",
       "sellingQuantity": "120"
     },
@@ -893,8 +893,8 @@
     },
     {
       "name": "Pierres précieuses",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "15",
+      "buyingQuantity": "30",
       "sellingPrice": "16",
       "sellingQuantity": "295"
     }
