@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-16T23:25:49.229Z",
+  "timestamp": "2025-11-17T12:25:49.628Z",
   "count": 128,
   "data": [
     {
@@ -469,7 +469,7 @@
       "buyingPrice": "290",
       "buyingQuantity": "1",
       "sellingPrice": "320",
-      "sellingQuantity": "1 (5)"
+      "sellingQuantity": "1 (3)"
     },
     {
       "name": "Flobart",
