@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-18T15:25:49.527Z",
+  "timestamp": "2025-11-18T18:10:48.129Z",
   "count": 128,
   "data": [
     {
@@ -174,8 +174,8 @@
       "name": "Sépium",
       "buyingPrice": "33",
       "buyingQuantity": "20",
-      "sellingPrice": "42",
-      "sellingQuantity": "26"
+      "sellingPrice": "41",
+      "sellingQuantity": "16"
     },
     {
       "name": "",
