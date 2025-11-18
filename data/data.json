@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-18T01:40:48.425Z",
+  "timestamp": "2025-11-18T15:25:49.527Z",
   "count": 128,
   "data": [
     {
@@ -349,7 +349,7 @@
       "name": "Archer",
       "buyingPrice": "260",
       "buyingQuantity": "2",
-      "sellingPrice": "300",
+      "sellingPrice": "280",
       "sellingQuantity": "6"
     },
     {
