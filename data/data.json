@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-18T18:10:48.129Z",
+  "timestamp": "2025-11-19T13:25:49.632Z",
   "count": 128,
   "data": [
     {
@@ -678,8 +678,8 @@
       "name": "Svir-Kala",
       "buyingPrice": "90",
       "buyingQuantity": "2",
-      "sellingPrice": "105",
-      "sellingQuantity": "4 (9)"
+      "sellingPrice": "95",
+      "sellingQuantity": "1 (9)"
     },
     {
       "name": "",
