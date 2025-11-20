@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-20T00:25:50.030Z",
+  "timestamp": "2025-11-20T22:10:48.130Z",
   "count": 128,
   "data": [
     {
@@ -161,7 +161,7 @@
       "buyingPrice": "30",
       "buyingQuantity": "13",
       "sellingPrice": "39",
-      "sellingQuantity": "5"
+      "sellingQuantity": "1"
     },
     {
       "name": "Renommée Artistique",
@@ -594,8 +594,8 @@
       "name": "Mort-vivant",
       "buyingPrice": "180",
       "buyingQuantity": "1",
-      "sellingPrice": "200",
-      "sellingQuantity": "1 (2)"
+      "sellingPrice": null,
+      "sellingQuantity": "0"
     },
     {
       "name": "",
