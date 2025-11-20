@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-20T23:25:50.027Z",
+  "timestamp": "2025-11-20T23:40:48.633Z",
   "count": 128,
   "data": [
     {
@@ -102,8 +102,8 @@
     },
     {
       "name": "Bateau de pêche",
-      "buyingPrice": "90",
-      "buyingQuantity": "3",
+      "buyingPrice": "92",
+      "buyingQuantity": null,
       "sellingPrice": "100",
       "sellingQuantity": "4 (5)"
     },
@@ -188,8 +188,8 @@
       "name": "Esclaves",
       "buyingPrice": "33",
       "buyingQuantity": "50",
-      "sellingPrice": "35",
-      "sellingQuantity": "10 (30)"
+      "sellingPrice": "36",
+      "sellingQuantity": "20"
     },
     {
       "name": "Forestier",
