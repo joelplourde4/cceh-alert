@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-19T13:25:49.632Z",
+  "timestamp": "2025-11-20T00:25:50.030Z",
   "count": 128,
   "data": [
     {
@@ -272,8 +272,8 @@
       "name": "Forgeron",
       "buyingPrice": "70",
       "buyingQuantity": "4",
-      "sellingPrice": "85",
-      "sellingQuantity": "1 (9)"
+      "sellingPrice": "80",
+      "sellingQuantity": "2 (11)"
     },
     {
       "name": "Ingénieur",
@@ -630,7 +630,7 @@
       "buyingPrice": "90",
       "buyingQuantity": "1",
       "sellingPrice": "110",
-      "sellingQuantity": "5 (7)"
+      "sellingQuantity": "5"
     },
     {
       "name": "Ingrédient",
