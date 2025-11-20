@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-11-20T23:40:48.633Z",
-  "count": 128,
+  "timestamp": "2025-11-20T23:55:50.230Z",
+  "count": 136,
   "data": [
     {
       "name": "",
@@ -18,8 +18,8 @@
     },
     {
       "name": "Fiche de population événement spécial",
-      "buyingPrice": "180",
-      "buyingQuantity": "39",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "222",
       "sellingQuantity": "5 (12)"
     },
@@ -53,8 +53,8 @@
     },
     {
       "name": "Armement",
-      "buyingPrice": "7.25",
-      "buyingQuantity": "100",
+      "buyingPrice": "7.50",
+      "buyingQuantity": null,
       "sellingPrice": "8.25",
       "sellingQuantity": "100 (120)"
     },
@@ -228,8 +228,8 @@
     },
     {
       "name": "Voelhoorn",
-      "buyingPrice": "30",
-      "buyingQuantity": "11",
+      "buyingPrice": "37.50",
+      "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -689,6 +689,13 @@
       "sellingQuantity": null
     },
     {
+      "name": "Âme de spectre embouteillée",
+      "buyingPrice": "650",
+      "buyingQuantity": "1",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
       "name": "Champignons phosphorescents",
       "buyingPrice": null,
       "buyingQuantity": "0",
@@ -703,11 +710,39 @@
       "sellingQuantity": "1"
     },
     {
+      "name": "Coeur de démon",
+      "buyingPrice": "650",
+      "buyingQuantity": "1",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Coeur de vampire",
+      "buyingPrice": "600",
+      "buyingQuantity": "1",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Corne d'Ophiotaurus",
+      "buyingPrice": "550",
+      "buyingQuantity": "1",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
       "name": "Crâne d'un minotaure",
       "buyingPrice": null,
       "buyingQuantity": "0",
       "sellingPrice": "419",
       "sellingQuantity": "1"
+    },
+    {
+      "name": "Dent de vampire",
+      "buyingPrice": "600",
+      "buyingQuantity": "1",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
     },
     {
       "name": "Écaille d'un reptile centennaire",
@@ -724,6 +759,13 @@
       "sellingQuantity": "1"
     },
     {
+      "name": "Oeil elfique pétrifié",
+      "buyingPrice": "650",
+      "buyingQuantity": "1",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
       "name": "Os de dragon noir",
       "buyingPrice": null,
       "buyingQuantity": "0",
@@ -731,9 +773,23 @@
       "sellingQuantity": "1"
     },
     {
-      "name": "Prisme translucide",
-      "buyingPrice": "600",
+      "name": "Plume d'hypogriffe",
+      "buyingPrice": "550",
       "buyingQuantity": "1",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Poudre d'os des premiers hommes",
+      "buyingPrice": "550",
+      "buyingQuantity": "1",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Prisme translucide",
+      "buyingPrice": "650",
+      "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
