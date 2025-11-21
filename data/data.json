@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-21T00:40:49.029Z",
+  "timestamp": "2025-11-21T02:25:50.325Z",
   "count": 136,
   "data": [
     {
@@ -56,7 +56,7 @@
       "buyingPrice": "7.50",
       "buyingQuantity": null,
       "sellingPrice": "8.25",
-      "sellingQuantity": "100 (120)"
+      "sellingQuantity": "90 (110)"
     },
     {
       "name": "Bétail",
@@ -70,7 +70,7 @@
       "buyingPrice": "7",
       "buyingQuantity": "90",
       "sellingPrice": "8",
-      "sellingQuantity": "55"
+      "sellingQuantity": "50"
     },
     {
       "name": "Équipement",
@@ -130,7 +130,7 @@
     },
     {
       "name": "Faveur Magique",
-      "buyingPrice": "8",
+      "buyingPrice": "7",
       "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
