@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-20T23:55:50.230Z",
+  "timestamp": "2025-11-21T00:10:48.733Z",
   "count": 136,
   "data": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "name": "Fiche de population activité",
-      "buyingPrice": "90",
-      "buyingQuantity": "25",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "103",
       "sellingQuantity": "10 (34)"
     },
@@ -25,8 +25,8 @@
     },
     {
       "name": "Fiche de population grande bataille",
-      "buyingPrice": "90",
-      "buyingQuantity": "20",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "103",
       "sellingQuantity": "4 (29)"
     },
@@ -173,7 +173,7 @@
     {
       "name": "Sépium",
       "buyingPrice": "33",
-      "buyingQuantity": "20",
+      "buyingQuantity": null,
       "sellingPrice": "41",
       "sellingQuantity": "16"
     },
@@ -200,14 +200,14 @@
     },
     {
       "name": "Marin",
-      "buyingPrice": "35",
-      "buyingQuantity": "10",
+      "buyingPrice": "37.50",
+      "buyingQuantity": null,
       "sellingPrice": "42",
       "sellingQuantity": "8 (11)"
     },
     {
       "name": "Nomade",
-      "buyingPrice": "34",
+      "buyingPrice": "37.50",
       "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
@@ -221,8 +221,8 @@
     },
     {
       "name": "Peaux vertes",
-      "buyingPrice": "36",
-      "buyingQuantity": "5",
+      "buyingPrice": "37.50",
+      "buyingQuantity": null,
       "sellingPrice": "38.50",
       "sellingQuantity": "4"
     },
@@ -249,8 +249,8 @@
     },
     {
       "name": "Artiste",
-      "buyingPrice": "200",
-      "buyingQuantity": "1",
+      "buyingPrice": "220",
+      "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -368,8 +368,8 @@
     },
     {
       "name": "Cavalier",
-      "buyingPrice": "340",
-      "buyingQuantity": "2",
+      "buyingPrice": "375",
+      "buyingQuantity": null,
       "sellingPrice": "425",
       "sellingQuantity": "3"
     },
@@ -438,7 +438,7 @@
     },
     {
       "name": "Aventurier",
-      "buyingPrice": "300",
+      "buyingPrice": "325",
       "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
@@ -501,8 +501,8 @@
     },
     {
       "name": "Janissaire",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "280",
+      "buyingQuantity": "1",
       "sellingPrice": "300",
       "sellingQuantity": "2"
     },
