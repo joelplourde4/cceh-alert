@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-21T20:10:49.427Z",
+  "timestamp": "2025-11-21T20:25:50.328Z",
   "count": 135,
   "data": [
     {
@@ -102,10 +102,10 @@
     },
     {
       "name": "Bateau de pêche",
-      "buyingPrice": "92",
-      "buyingQuantity": null,
+      "buyingPrice": "90",
+      "buyingQuantity": "5",
       "sellingPrice": "100",
-      "sellingQuantity": "6 (7)"
+      "sellingQuantity": "9 (10)"
     },
     {
       "name": "Butin",
