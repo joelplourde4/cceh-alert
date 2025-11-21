@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-11-21T17:25:50.227Z",
-  "count": 136,
+  "timestamp": "2025-11-21T20:10:49.427Z",
+  "count": 135,
   "data": [
     {
       "name": "",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Fiche de population activité",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "85",
+      "buyingQuantity": "10",
       "sellingPrice": "103",
       "sellingQuantity": "10 (34)"
     },
@@ -25,8 +25,8 @@
     },
     {
       "name": "Fiche de population grande bataille",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "85",
+      "buyingQuantity": "10",
       "sellingPrice": "103",
       "sellingQuantity": "4 (29)"
     },
@@ -173,7 +173,7 @@
     {
       "name": "Sépium",
       "buyingPrice": "33",
-      "buyingQuantity": null,
+      "buyingQuantity": "20",
       "sellingPrice": "41",
       "sellingQuantity": "16"
     },
@@ -368,8 +368,8 @@
     },
     {
       "name": "Cavalier",
-      "buyingPrice": "375",
-      "buyingQuantity": null,
+      "buyingPrice": "340",
+      "buyingQuantity": "2",
       "sellingPrice": "425",
       "sellingQuantity": "3"
     },
@@ -501,8 +501,8 @@
     },
     {
       "name": "Janissaire",
-      "buyingPrice": "280",
-      "buyingQuantity": "1",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "300",
       "sellingQuantity": "2"
     },
@@ -687,13 +687,6 @@
       "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": null
-    },
-    {
-      "name": "Âme de spectre embouteillée",
-      "buyingPrice": "650",
-      "buyingQuantity": "1",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
     },
     {
       "name": "Champignons phosphorescents",
