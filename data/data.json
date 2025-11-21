@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-21T00:10:48.733Z",
+  "timestamp": "2025-11-21T00:40:49.029Z",
   "count": 136,
   "data": [
     {
@@ -727,8 +727,8 @@
       "name": "Corne d'Ophiotaurus",
       "buyingPrice": "550",
       "buyingQuantity": "1",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "600",
+      "sellingQuantity": "1"
     },
     {
       "name": "Crâne d'un minotaure",
