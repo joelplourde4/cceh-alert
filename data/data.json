@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-21T17:10:49.130Z",
+  "timestamp": "2025-11-21T17:25:50.227Z",
   "count": 136,
   "data": [
     {
@@ -293,8 +293,8 @@
       "name": "Laborantin",
       "buyingPrice": "60",
       "buyingQuantity": "5",
-      "sellingPrice": "75",
-      "sellingQuantity": "3 (15)"
+      "sellingPrice": "70",
+      "sellingQuantity": "2 (17)"
     },
     {
       "name": "Maçon",
