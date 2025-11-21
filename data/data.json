@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-21T13:10:48.731Z",
+  "timestamp": "2025-11-21T14:55:50.430Z",
   "count": 136,
   "data": [
     {
@@ -105,7 +105,7 @@
       "buyingPrice": "92",
       "buyingQuantity": null,
       "sellingPrice": "100",
-      "sellingQuantity": "4 (5)"
+      "sellingQuantity": "6 (7)"
     },
     {
       "name": "Butin",
@@ -188,8 +188,8 @@
       "name": "Esclaves",
       "buyingPrice": "33",
       "buyingQuantity": "50",
-      "sellingPrice": "36",
-      "sellingQuantity": "20"
+      "sellingPrice": "35",
+      "sellingQuantity": "10 (30)"
     },
     {
       "name": "Forestier",
@@ -592,8 +592,8 @@
     },
     {
       "name": "Mort-vivant",
-      "buyingPrice": "180",
-      "buyingQuantity": "1",
+      "buyingPrice": "200",
+      "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -657,8 +657,8 @@
       "name": "Miguisse",
       "buyingPrice": "90",
       "buyingQuantity": "2",
-      "sellingPrice": "100",
-      "sellingQuantity": "7 (11)"
+      "sellingPrice": "95",
+      "sellingQuantity": "1 (12)"
     },
     {
       "name": "Points de pouvoir",
