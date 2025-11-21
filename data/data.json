@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-21T14:55:50.430Z",
+  "timestamp": "2025-11-21T17:10:49.130Z",
   "count": 136,
   "data": [
     {
@@ -74,8 +74,8 @@
     },
     {
       "name": "Équipement",
-      "buyingPrice": "7.50",
-      "buyingQuantity": "100",
+      "buyingPrice": "7.75",
+      "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
