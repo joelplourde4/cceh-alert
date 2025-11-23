@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-23T21:10:49.733Z",
+  "timestamp": "2025-11-23T21:55:51.128Z",
   "count": 135,
   "data": [
     {
@@ -20,8 +20,8 @@
       "name": "Fiche de population événement spécial",
       "buyingPrice": null,
       "buyingQuantity": "0",
-      "sellingPrice": "222",
-      "sellingQuantity": "5 (12)"
+      "sellingPrice": "210",
+      "sellingQuantity": "3 (15)"
     },
     {
       "name": "Fiche de population grande bataille",
@@ -173,7 +173,7 @@
     {
       "name": "Sépium",
       "buyingPrice": "33",
-      "buyingQuantity": "20",
+      "buyingQuantity": "10",
       "sellingPrice": "41",
       "sellingQuantity": "16"
     },
@@ -293,8 +293,8 @@
       "name": "Laborantin",
       "buyingPrice": "60",
       "buyingQuantity": "5",
-      "sellingPrice": "70",
-      "sellingQuantity": "2 (17)"
+      "sellingPrice": "69",
+      "sellingQuantity": "3 (20)"
     },
     {
       "name": "Maçon",
@@ -334,7 +334,7 @@
     {
       "name": "Scribe",
       "buyingPrice": "75",
-      "buyingQuantity": "5",
+      "buyingQuantity": "2",
       "sellingPrice": "85",
       "sellingQuantity": "5"
     },
