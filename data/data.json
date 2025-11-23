@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-22T13:10:49.230Z",
+  "timestamp": "2025-11-23T17:40:49.629Z",
   "count": 135,
   "data": [
     {
@@ -259,7 +259,7 @@
       "buyingPrice": "65",
       "buyingQuantity": "10",
       "sellingPrice": "75",
-      "sellingQuantity": "10 (23)"
+      "sellingQuantity": "10 (18)"
     },
     {
       "name": "Croyant",
@@ -280,7 +280,7 @@
       "buyingPrice": "65",
       "buyingQuantity": null,
       "sellingPrice": "90",
-      "sellingQuantity": "11"
+      "sellingQuantity": "5 (10)"
     },
     {
       "name": "Intendant",
@@ -455,7 +455,7 @@
       "buyingPrice": "225",
       "buyingQuantity": "2",
       "sellingPrice": "240",
-      "sellingQuantity": "1 (9)"
+      "sellingQuantity": "1 (4)"
     },
     {
       "name": "",
