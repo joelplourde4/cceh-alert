@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-23T21:55:51.128Z",
+  "timestamp": "2025-11-23T22:10:49.326Z",
   "count": 135,
   "data": [
     {
@@ -398,8 +398,8 @@
       "name": "Soldat de métier",
       "buyingPrice": "300",
       "buyingQuantity": null,
-      "sellingPrice": "340",
-      "sellingQuantity": "1"
+      "sellingPrice": null,
+      "sellingQuantity": "0"
     },
     {
       "name": "Trébuchet",
