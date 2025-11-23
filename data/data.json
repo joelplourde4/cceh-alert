@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-23T22:10:49.326Z",
+  "timestamp": "2025-11-23T22:25:50.829Z",
   "count": 135,
   "data": [
     {
@@ -720,7 +720,7 @@
       "name": "Corne d'Ophiotaurus",
       "buyingPrice": "550",
       "buyingQuantity": "1",
-      "sellingPrice": "600",
+      "sellingPrice": "599",
       "sellingQuantity": "1"
     },
     {
