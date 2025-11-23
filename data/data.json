@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-23T19:25:51.031Z",
+  "timestamp": "2025-11-23T19:55:51.025Z",
   "count": 135,
   "data": [
     {
@@ -34,8 +34,8 @@
       "name": "Fiche de population thématique",
       "buyingPrice": null,
       "buyingQuantity": "0",
-      "sellingPrice": "105",
-      "sellingQuantity": "3 (10)"
+      "sellingPrice": "90",
+      "sellingQuantity": "3 (13)"
     },
     {
       "name": "Fiche de population Tournoi des nations",
