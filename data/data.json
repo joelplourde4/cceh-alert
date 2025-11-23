@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-23T19:10:49.529Z",
+  "timestamp": "2025-11-23T19:25:51.031Z",
   "count": 135,
   "data": [
     {
@@ -384,8 +384,8 @@
       "name": "Mercenaire",
       "buyingPrice": "160",
       "buyingQuantity": "2",
-      "sellingPrice": "210",
-      "sellingQuantity": "1 (5)"
+      "sellingPrice": "220",
+      "sellingQuantity": "3 (4)"
     },
     {
       "name": "Milice",
