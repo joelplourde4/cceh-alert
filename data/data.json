@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-23T23:55:51.030Z",
+  "timestamp": "2025-11-24T04:55:50.630Z",
   "count": 134,
   "data": [
     {
@@ -193,8 +193,8 @@
     },
     {
       "name": "Forestier",
-      "buyingPrice": "34",
-      "buyingQuantity": null,
+      "buyingPrice": "30",
+      "buyingQuantity": "5",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -396,7 +396,7 @@
     },
     {
       "name": "Soldat de métier",
-      "buyingPrice": "300",
+      "buyingPrice": "310",
       "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
