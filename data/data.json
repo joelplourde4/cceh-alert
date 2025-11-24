@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-24T04:55:50.630Z",
+  "timestamp": "2025-11-24T14:10:49.730Z",
   "count": 134,
   "data": [
     {
@@ -76,8 +76,8 @@
       "name": "Équipement",
       "buyingPrice": "7.50",
       "buyingQuantity": "100",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "8.75",
+      "sellingQuantity": "100"
     },
     {
       "name": "Ressources",
@@ -174,8 +174,8 @@
       "name": "Sépium",
       "buyingPrice": "33",
       "buyingQuantity": "10",
-      "sellingPrice": "41",
-      "sellingQuantity": "16"
+      "sellingPrice": "40",
+      "sellingQuantity": "10 (26)"
     },
     {
       "name": "",
@@ -188,8 +188,8 @@
       "name": "Esclaves",
       "buyingPrice": "35",
       "buyingQuantity": null,
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "37",
+      "sellingQuantity": "15"
     },
     {
       "name": "Forestier",
