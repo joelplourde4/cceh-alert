@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-24T20:25:51.132Z",
+  "timestamp": "2025-11-25T15:25:50.934Z",
   "count": 134,
   "data": [
     {
@@ -84,7 +84,7 @@
       "buyingPrice": "7.75",
       "buyingQuantity": null,
       "sellingPrice": "8.40",
-      "sellingQuantity": "100 (210)"
+      "sellingQuantity": "100 (160)"
     },
     {
       "name": "Victuailles",
@@ -335,8 +335,8 @@
       "name": "Scribe",
       "buyingPrice": "75",
       "buyingQuantity": "2",
-      "sellingPrice": "85",
-      "sellingQuantity": "5"
+      "sellingPrice": "80",
+      "sellingQuantity": "3 (8)"
     },
     {
       "name": "",
