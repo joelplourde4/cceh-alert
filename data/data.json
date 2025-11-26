@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T18:25:51.625Z",
+  "timestamp": "2025-11-26T21:25:51.431Z",
   "count": 134,
   "data": [
     {
@@ -396,7 +396,7 @@
     },
     {
       "name": "Soldat de métier",
-      "buyingPrice": "310",
+      "buyingPrice": "300",
       "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
