@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T02:55:51.531Z",
+  "timestamp": "2025-11-26T03:10:50.134Z",
   "count": 134,
   "data": [
     {
@@ -165,7 +165,7 @@
     },
     {
       "name": "Renommée Artistique",
-      "buyingPrice": "10",
+      "buyingPrice": "11",
       "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
