@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T21:25:51.431Z",
+  "timestamp": "2025-11-26T21:40:50.533Z",
   "count": 134,
   "data": [
     {
@@ -193,8 +193,8 @@
     },
     {
       "name": "Forestier",
-      "buyingPrice": "30",
-      "buyingQuantity": "5",
+      "buyingPrice": "34",
+      "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
