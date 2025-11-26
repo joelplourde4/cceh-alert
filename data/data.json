@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T15:10:50.531Z",
+  "timestamp": "2025-11-26T18:25:51.625Z",
   "count": 134,
   "data": [
     {
@@ -315,7 +315,7 @@
       "buyingPrice": "50",
       "buyingQuantity": "5",
       "sellingPrice": "65",
-      "sellingQuantity": "5"
+      "sellingQuantity": "4"
     },
     {
       "name": "Mentor Maritime",
