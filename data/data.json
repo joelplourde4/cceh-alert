@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T23:55:51.427Z",
+  "timestamp": "2025-11-27T00:40:50.133Z",
   "count": 134,
   "data": [
     {
@@ -308,7 +308,7 @@
       "buyingPrice": "250",
       "buyingQuantity": "1",
       "sellingPrice": "460",
-      "sellingQuantity": "3 (4)"
+      "sellingQuantity": "3"
     },
     {
       "name": "Mentor d'aventurier",
