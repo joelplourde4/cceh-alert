@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-27T01:25:51.932Z",
+  "timestamp": "2025-11-27T06:40:50.430Z",
   "count": 134,
   "data": [
     {
@@ -77,7 +77,7 @@
       "buyingPrice": "7.50",
       "buyingQuantity": "100",
       "sellingPrice": "8.75",
-      "sellingQuantity": "100"
+      "sellingQuantity": "97"
     },
     {
       "name": "Ressources",
