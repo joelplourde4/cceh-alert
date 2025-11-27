@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-27T06:40:50.430Z",
+  "timestamp": "2025-11-27T14:25:51.635Z",
   "count": 134,
   "data": [
     {
@@ -265,8 +265,8 @@
       "name": "Croyant",
       "buyingPrice": "150",
       "buyingQuantity": "2",
-      "sellingPrice": "190",
-      "sellingQuantity": "3 (6)"
+      "sellingPrice": "180",
+      "sellingQuantity": "5 (11)"
     },
     {
       "name": "Forgeron",
@@ -832,8 +832,8 @@
       "name": "Influence Cité des sables",
       "buyingPrice": "25",
       "buyingQuantity": "10",
-      "sellingPrice": null,
-      "sellingQuantity": "0"
+      "sellingPrice": "35",
+      "sellingQuantity": "5"
     },
     {
       "name": "Influence de Carcosa",
