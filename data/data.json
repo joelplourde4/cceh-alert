@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-27T14:25:51.635Z",
+  "timestamp": "2025-11-27T14:40:50.433Z",
   "count": 134,
   "data": [
     {
@@ -286,8 +286,8 @@
       "name": "Intendant",
       "buyingPrice": "80",
       "buyingQuantity": null,
-      "sellingPrice": "95",
-      "sellingQuantity": "5 (6)"
+      "sellingPrice": "90",
+      "sellingQuantity": "5 (11)"
     },
     {
       "name": "Laborantin",
@@ -377,8 +377,8 @@
       "name": "Chevalier",
       "buyingPrice": "500",
       "buyingQuantity": "1",
-      "sellingPrice": "615",
-      "sellingQuantity": "1 (6)"
+      "sellingPrice": "605",
+      "sellingQuantity": "1 (7)"
     },
     {
       "name": "Mercenaire",
