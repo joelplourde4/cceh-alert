@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-27T23:10:50.525Z",
+  "timestamp": "2025-11-27T23:40:50.532Z",
   "count": 132,
   "data": [
     {
@@ -242,8 +242,8 @@
     },
     {
       "name": "Admirateur",
-      "buyingPrice": "75",
-      "buyingQuantity": null,
+      "buyingPrice": "70",
+      "buyingQuantity": "5",
       "sellingPrice": "95",
       "sellingQuantity": "1 (6)"
     },
@@ -761,7 +761,7 @@
     {
       "name": "Prisme translucide",
       "buyingPrice": "650",
-      "buyingQuantity": null,
+      "buyingQuantity": "1",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
