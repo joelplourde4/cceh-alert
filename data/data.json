@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-11-27T14:40:50.433Z",
-  "count": 134,
+  "timestamp": "2025-11-27T21:25:51.626Z",
+  "count": 132,
   "data": [
     {
       "name": "",
@@ -123,8 +123,8 @@
     },
     {
       "name": "Faveur Divine",
-      "buyingPrice": "11",
-      "buyingQuantity": null,
+      "buyingPrice": "8",
+      "buyingQuantity": "100",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -491,20 +491,6 @@
       "buyingQuantity": "1",
       "sellingPrice": "510",
       "sellingQuantity": "1 (5)"
-    },
-    {
-      "name": "",
-      "buyingPrice": null,
-      "buyingQuantity": null,
-      "sellingPrice": null,
-      "sellingQuantity": null
-    },
-    {
-      "name": "Janissaire",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
-      "sellingPrice": "300",
-      "sellingQuantity": "2"
     },
     {
       "name": "",
