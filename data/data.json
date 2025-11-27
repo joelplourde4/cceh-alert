@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-27T21:40:50.529Z",
+  "timestamp": "2025-11-27T22:55:51.629Z",
   "count": 132,
   "data": [
     {
@@ -110,7 +110,7 @@
     {
       "name": "Butin",
       "buyingPrice": "65",
-      "buyingQuantity": "10",
+      "buyingQuantity": "8",
       "sellingPrice": "75",
       "sellingQuantity": "11 (16)"
     },
@@ -158,8 +158,8 @@
     },
     {
       "name": "Oeuvre",
-      "buyingPrice": "30",
-      "buyingQuantity": "13",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "39",
       "sellingQuantity": "1"
     },
@@ -594,8 +594,8 @@
       "name": "Crâne",
       "buyingPrice": "85",
       "buyingQuantity": "4",
-      "sellingPrice": "95",
-      "sellingQuantity": "4 (15)"
+      "sellingPrice": "100",
+      "sellingQuantity": "9 (11)"
     },
     {
       "name": "Énergie pure",
