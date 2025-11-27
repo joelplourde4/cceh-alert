@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-27T00:40:50.133Z",
+  "timestamp": "2025-11-27T01:25:51.932Z",
   "count": 134,
   "data": [
     {
@@ -14,7 +14,7 @@
       "buyingPrice": "85",
       "buyingQuantity": "10",
       "sellingPrice": "103",
-      "sellingQuantity": "10 (34)"
+      "sellingQuantity": "10 (24)"
     },
     {
       "name": "Fiche de population événement spécial",
@@ -28,7 +28,7 @@
       "buyingPrice": "85",
       "buyingQuantity": "10",
       "sellingPrice": "103",
-      "sellingQuantity": "4 (29)"
+      "sellingQuantity": "4 (19)"
     },
     {
       "name": "Fiche de population thématique",
