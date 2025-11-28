@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-11-28T04:25:51.928Z",
-  "count": 132,
+  "timestamp": "2025-11-28T15:10:50.725Z",
+  "count": 134,
   "data": [
     {
       "name": "",
@@ -63,7 +63,7 @@
       "buyingPrice": "6.75",
       "buyingQuantity": null,
       "sellingPrice": "7.40",
-      "sellingQuantity": "95 (419)"
+      "sellingQuantity": "95 (519)"
     },
     {
       "name": "Céréales",
@@ -88,8 +88,8 @@
     },
     {
       "name": "Victuailles",
-      "buyingPrice": "7.25",
-      "buyingQuantity": "100",
+      "buyingPrice": "7.50",
+      "buyingQuantity": null,
       "sellingPrice": "8.50",
       "sellingQuantity": "173"
     },
@@ -158,8 +158,8 @@
     },
     {
       "name": "Oeuvre",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "30",
+      "buyingQuantity": "10",
       "sellingPrice": "38",
       "sellingQuantity": "22 (23)"
     },
@@ -489,8 +489,22 @@
       "name": "Voile de guerre",
       "buyingPrice": "480",
       "buyingQuantity": "1",
-      "sellingPrice": "510",
+      "sellingPrice": "500",
       "sellingQuantity": "1 (5)"
+    },
+    {
+      "name": "",
+      "buyingPrice": null,
+      "buyingQuantity": null,
+      "sellingPrice": null,
+      "sellingQuantity": null
+    },
+    {
+      "name": "Janissaire",
+      "buyingPrice": "280",
+      "buyingQuantity": "1",
+      "sellingPrice": "320",
+      "sellingQuantity": "2"
     },
     {
       "name": "",
