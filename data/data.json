@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-28T01:55:51.825Z",
+  "timestamp": "2025-11-28T04:25:51.928Z",
   "count": 132,
   "data": [
     {
@@ -60,10 +60,10 @@
     },
     {
       "name": "Bétail",
-      "buyingPrice": "7",
+      "buyingPrice": "6.75",
       "buyingQuantity": null,
       "sellingPrice": "7.40",
-      "sellingQuantity": "100 (424)"
+      "sellingQuantity": "95 (419)"
     },
     {
       "name": "Céréales",
