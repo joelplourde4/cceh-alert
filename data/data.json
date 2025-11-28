@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-28T15:25:52.029Z",
+  "timestamp": "2025-11-28T15:40:50.826Z",
   "count": 134,
   "data": [
     {
@@ -242,8 +242,8 @@
     },
     {
       "name": "Admirateur",
-      "buyingPrice": "70",
-      "buyingQuantity": "5",
+      "buyingPrice": "75",
+      "buyingQuantity": null,
       "sellingPrice": "100",
       "sellingQuantity": "5"
     },
