@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-28T15:10:50.725Z",
+  "timestamp": "2025-11-28T15:25:52.029Z",
   "count": 134,
   "data": [
     {
@@ -397,7 +397,7 @@
     {
       "name": "Soldat de métier",
       "buyingPrice": "300",
-      "buyingQuantity": null,
+      "buyingQuantity": "1",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -658,7 +658,7 @@
       "buyingPrice": "90",
       "buyingQuantity": "2",
       "sellingPrice": "95",
-      "sellingQuantity": "1 (12)"
+      "sellingQuantity": "2 (12)"
     },
     {
       "name": "Points de pouvoir",
