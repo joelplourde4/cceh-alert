@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-29T14:40:50.831Z",
+  "timestamp": "2025-11-29T15:55:52.629Z",
   "count": 134,
   "data": [
     {
@@ -153,15 +153,15 @@
       "name": "Objet de collection",
       "buyingPrice": "95",
       "buyingQuantity": "7",
-      "sellingPrice": "105",
+      "sellingPrice": "102",
       "sellingQuantity": "3 (6)"
     },
     {
       "name": "Oeuvre",
       "buyingPrice": null,
       "buyingQuantity": "0",
-      "sellingPrice": "32",
-      "sellingQuantity": "12 (31)"
+      "sellingPrice": "31",
+      "sellingQuantity": "5 (31)"
     },
     {
       "name": "Renommée Artistique",
