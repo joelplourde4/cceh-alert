@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-30T21:55:52.533Z",
+  "timestamp": "2025-11-30T22:40:51.525Z",
   "count": 134,
   "data": [
     {
@@ -249,7 +249,7 @@
     },
     {
       "name": "Artiste",
-      "buyingPrice": "220",
+      "buyingPrice": "260",
       "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
