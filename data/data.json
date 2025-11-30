@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-30T22:40:51.525Z",
+  "timestamp": "2025-11-30T22:55:53.032Z",
   "count": 134,
   "data": [
     {
@@ -774,7 +774,7 @@
     },
     {
       "name": "Prisme translucide",
-      "buyingPrice": "651",
+      "buyingPrice": "700",
       "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
