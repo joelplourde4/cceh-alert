@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-30T18:40:51.227Z",
+  "timestamp": "2025-11-30T19:10:51.333Z",
   "count": 134,
   "data": [
     {
@@ -585,8 +585,8 @@
     },
     {
       "name": "Démon",
-      "buyingPrice": "1",
-      "buyingQuantity": "700",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
