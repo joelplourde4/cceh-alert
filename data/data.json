@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-30T19:25:52.531Z",
+  "timestamp": "2025-11-30T20:25:52.628Z",
   "count": 134,
   "data": [
     {
@@ -160,7 +160,7 @@
       "name": "Oeuvre",
       "buyingPrice": "30",
       "buyingQuantity": "8",
-      "sellingPrice": "34",
+      "sellingPrice": "32",
       "sellingQuantity": "5 (19)"
     },
     {
