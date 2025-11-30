@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-30T20:25:52.628Z",
+  "timestamp": "2025-11-30T21:55:52.533Z",
   "count": 134,
   "data": [
     {
@@ -468,8 +468,8 @@
       "name": "Combattant embarqué",
       "buyingPrice": "290",
       "buyingQuantity": "1",
-      "sellingPrice": "315",
-      "sellingQuantity": "2 (5)"
+      "sellingPrice": "320",
+      "sellingQuantity": "1 (3)"
     },
     {
       "name": "Flobart",
