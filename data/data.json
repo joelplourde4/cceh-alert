@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-30T18:10:51.129Z",
+  "timestamp": "2025-11-30T18:25:52.428Z",
   "count": 134,
   "data": [
     {
@@ -193,7 +193,7 @@
     },
     {
       "name": "Forestier",
-      "buyingPrice": "34",
+      "buyingPrice": "35",
       "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
@@ -293,8 +293,8 @@
       "name": "Laborantin",
       "buyingPrice": "60",
       "buyingQuantity": "5",
-      "sellingPrice": "69",
-      "sellingQuantity": "3 (20)"
+      "sellingPrice": "70",
+      "sellingQuantity": "2 (17)"
     },
     {
       "name": "Maçon",
