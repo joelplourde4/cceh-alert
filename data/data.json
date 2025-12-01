@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-01T11:10:51.330Z",
+  "timestamp": "2025-12-01T14:40:51.125Z",
   "count": 134,
   "data": [
     {
@@ -900,7 +900,7 @@
     },
     {
       "name": "Influence Territoire de l'oubli",
-      "buyingPrice": "20",
+      "buyingPrice": "21",
       "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
