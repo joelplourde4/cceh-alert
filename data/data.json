@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-30T22:55:53.032Z",
+  "timestamp": "2025-12-01T11:10:51.330Z",
   "count": 134,
   "data": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "name": "Fiche de population activité",
-      "buyingPrice": "85",
-      "buyingQuantity": "10",
+      "buyingPrice": "90",
+      "buyingQuantity": null,
       "sellingPrice": "103",
       "sellingQuantity": "10 (24)"
     },
@@ -25,15 +25,15 @@
     },
     {
       "name": "Fiche de population grande bataille",
-      "buyingPrice": "85",
-      "buyingQuantity": "10",
+      "buyingPrice": "95",
+      "buyingQuantity": null,
       "sellingPrice": "103",
       "sellingQuantity": "4 (19)"
     },
     {
       "name": "Fiche de population thématique",
-      "buyingPrice": null,
-      "buyingQuantity": "0",
+      "buyingPrice": "95",
+      "buyingQuantity": "7",
       "sellingPrice": "105",
       "sellingQuantity": "3 (10)"
     },
