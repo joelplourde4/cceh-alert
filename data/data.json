@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-01T14:40:51.125Z",
+  "timestamp": "2025-12-01T16:40:51.425Z",
   "count": 134,
   "data": [
     {
@@ -123,8 +123,8 @@
     },
     {
       "name": "Faveur Divine",
-      "buyingPrice": "8",
-      "buyingQuantity": "100",
+      "buyingPrice": "9",
+      "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -305,8 +305,8 @@
     },
     {
       "name": "Mécène",
-      "buyingPrice": "250",
-      "buyingQuantity": "1",
+      "buyingPrice": null,
+      "buyingQuantity": "0",
       "sellingPrice": "460",
       "sellingQuantity": "3"
     },
@@ -774,7 +774,7 @@
     },
     {
       "name": "Prisme translucide",
-      "buyingPrice": "700",
+      "buyingPrice": "750",
       "buyingQuantity": null,
       "sellingPrice": null,
       "sellingQuantity": "0"
