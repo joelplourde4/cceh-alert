@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-01T16:40:51.425Z",
+  "timestamp": "2025-12-02T00:40:51.530Z",
   "count": 134,
   "data": [
     {
@@ -186,8 +186,8 @@
     },
     {
       "name": "Esclaves",
-      "buyingPrice": "33",
-      "buyingQuantity": "50",
+      "buyingPrice": "34",
+      "buyingQuantity": null,
       "sellingPrice": "37",
       "sellingQuantity": "10"
     },
