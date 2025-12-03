@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-03T14:40:51.430Z",
+  "timestamp": "2025-12-03T15:40:51.429Z",
   "count": 134,
   "data": [
     {
@@ -193,8 +193,8 @@
     },
     {
       "name": "Forestier",
-      "buyingPrice": "36",
-      "buyingQuantity": null,
+      "buyingPrice": "30",
+      "buyingQuantity": "5",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -438,8 +438,8 @@
     },
     {
       "name": "Aventurier",
-      "buyingPrice": "270",
-      "buyingQuantity": "1",
+      "buyingPrice": "290",
+      "buyingQuantity": null,
       "sellingPrice": "350",
       "sellingQuantity": "1"
     },
