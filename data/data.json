@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-03T15:40:51.429Z",
+  "timestamp": "2025-12-03T19:25:52.427Z",
   "count": 134,
   "data": [
     {
@@ -377,8 +377,8 @@
       "name": "Chevalier",
       "buyingPrice": "550",
       "buyingQuantity": "1",
-      "sellingPrice": "585",
-      "sellingQuantity": "1 (7)"
+      "sellingPrice": "575",
+      "sellingQuantity": "1 (8)"
     },
     {
       "name": "Mercenaire",
@@ -391,15 +391,15 @@
       "name": "Milice",
       "buyingPrice": "275",
       "buyingQuantity": "1",
-      "sellingPrice": "300",
-      "sellingQuantity": "1 (6)"
+      "sellingPrice": "290",
+      "sellingQuantity": "1 (7)"
     },
     {
       "name": "Soldat de métier",
       "buyingPrice": "300",
       "buyingQuantity": "1",
-      "sellingPrice": "350",
-      "sellingQuantity": "1"
+      "sellingPrice": "340",
+      "sellingQuantity": "1 (2)"
     },
     {
       "name": "Trébuchet",
@@ -531,8 +531,8 @@
       "name": "Milice elfique",
       "buyingPrice": "260",
       "buyingQuantity": "1",
-      "sellingPrice": "300",
-      "sellingQuantity": "1 (6)"
+      "sellingPrice": "290",
+      "sellingQuantity": "1 (7)"
     },
     {
       "name": "Roquen",
