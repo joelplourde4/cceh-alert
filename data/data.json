@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-04T00:10:51.531Z",
+  "timestamp": "2025-12-04T00:40:51.431Z",
   "count": 134,
   "data": [
     {
@@ -440,8 +440,8 @@
       "name": "Aventurier",
       "buyingPrice": "290",
       "buyingQuantity": null,
-      "sellingPrice": "350",
-      "sellingQuantity": "1"
+      "sellingPrice": "330",
+      "sellingQuantity": "1 (2)"
     },
     {
       "name": "Hommes-rats",
