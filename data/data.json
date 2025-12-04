@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-04T00:55:53.128Z",
+  "timestamp": "2025-12-04T14:40:51.429Z",
   "count": 134,
   "data": [
     {
@@ -438,7 +438,7 @@
     },
     {
       "name": "Aventurier",
-      "buyingPrice": "290",
+      "buyingPrice": "295",
       "buyingQuantity": null,
       "sellingPrice": "330",
       "sellingQuantity": "1 (2)"
