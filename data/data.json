@@ -1,6 +1,6 @@
 {
-  "timestamp": "2025-12-04T14:40:51.429Z",
-  "count": 134,
+  "timestamp": "2025-12-04T20:55:52.531Z",
+  "count": 135,
   "data": [
     {
       "name": "",
@@ -61,7 +61,7 @@
     {
       "name": "Bétail",
       "buyingPrice": "6.75",
-      "buyingQuantity": null,
+      "buyingQuantity": "100",
       "sellingPrice": "7.40",
       "sellingQuantity": "95 (519)"
     },
@@ -207,8 +207,8 @@
     },
     {
       "name": "Nomade",
-      "buyingPrice": "37.50",
-      "buyingQuantity": null,
+      "buyingPrice": "30",
+      "buyingQuantity": "5",
       "sellingPrice": null,
       "sellingQuantity": "0"
     },
@@ -222,7 +222,7 @@
     {
       "name": "Peaux vertes",
       "buyingPrice": "37.50",
-      "buyingQuantity": null,
+      "buyingQuantity": "8",
       "sellingPrice": "38.50",
       "sellingQuantity": "4"
     },
@@ -307,8 +307,8 @@
       "name": "Mécène",
       "buyingPrice": null,
       "buyingQuantity": "0",
-      "sellingPrice": "460",
-      "sellingQuantity": "3"
+      "sellingPrice": "445",
+      "sellingQuantity": "1 (3)"
     },
     {
       "name": "Mentor d'aventurier",
@@ -440,8 +440,8 @@
       "name": "Aventurier",
       "buyingPrice": "295",
       "buyingQuantity": null,
-      "sellingPrice": "330",
-      "sellingQuantity": "1 (2)"
+      "sellingPrice": "325",
+      "sellingQuantity": "2 (4)"
     },
     {
       "name": "Hommes-rats",
@@ -712,6 +712,13 @@
     {
       "name": "Coeur de vampire",
       "buyingPrice": "600",
+      "buyingQuantity": "1",
+      "sellingPrice": null,
+      "sellingQuantity": "0"
+    },
+    {
+      "name": "Corne d'Ophiotaurus",
+      "buyingPrice": "500",
       "buyingQuantity": "1",
       "sellingPrice": null,
       "sellingQuantity": "0"
