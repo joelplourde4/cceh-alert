@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-04T20:55:52.531Z",
+  "timestamp": "2025-12-04T21:40:51.728Z",
   "count": 135,
   "data": [
     {
@@ -214,7 +214,7 @@
     },
     {
       "name": "Paysan",
-      "buyingPrice": "36",
+      "buyingPrice": "37",
       "buyingQuantity": "10",
       "sellingPrice": "39",
       "sellingQuantity": "15"
